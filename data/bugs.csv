@@ -1,0 +1,801 @@
+bug_id,created_date,resolved_date,module,severity,status,reported_by,assigned_to,title,description
+1,2024-07-18,,Admin,Low,Open,Tester 8,Dev 3,Admin - bug 1,Descripción breve del bug 1 en módulo Admin.
+2,2024-09-02,2024-09-09,Search,Low,Closed,Tester 7,Dev 3,Search - bug 2,Descripción breve del bug 2 en módulo Search.
+3,2024-12-03,2024-12-12,API,High,Resolved,Tester 3,Dev 4,API - bug 3,Descripción breve del bug 3 en módulo API.
+4,2025-05-06,,API,Critical,In Progress,Tester 7,Dev 2,API - bug 4,Descripción breve del bug 4 en módulo API.
+5,2024-08-05,2024-08-12,API,High,Closed,Tester 1,Dev 3,API - bug 5,Descripción breve del bug 5 en módulo API.
+6,2025-10-18,2025-11-01,Admin,High,Resolved,Tester 6,Dev 6,Admin - bug 6,Descripción breve del bug 6 en módulo Admin.
+7,2024-07-26,2024-08-01,Checkout,Medium,Resolved,Tester 2,Dev 6,Checkout - bug 7,Descripción breve del bug 7 en módulo Checkout.
+8,2024-06-16,2024-06-21,Profile,Medium,Resolved,Tester 3,Dev 3,Profile - bug 8,Descripción breve del bug 8 en módulo Profile.
+9,2025-07-04,,Admin,Low,Open,Tester 5,Dev 4,Admin - bug 9,Descripción breve del bug 9 en módulo Admin.
+10,2025-05-25,,Profile,High,In Progress,Tester 7,Dev 1,Profile - bug 10,Descripción breve del bug 10 en módulo Profile.
+11,2025-11-15,,Checkout,Medium,Blocked,Tester 8,Dev 2,Checkout - bug 11,Descripción breve del bug 11 en módulo Checkout.
+12,2024-11-22,,API,High,Blocked,Tester 4,Dev 5,API - bug 12,Descripción breve del bug 12 en módulo API.
+13,2025-10-15,,Login,Low,Open,Tester 2,Dev 5,Login - bug 13,Descripción breve del bug 13 en módulo Login.
+14,2025-10-22,2025-11-03,Checkout,Low,Resolved,Tester 2,Dev 2,Checkout - bug 14,Descripción breve del bug 14 en módulo Checkout.
+15,2025-08-01,,Profile,Low,In Progress,Tester 5,Dev 2,Profile - bug 15,Descripción breve del bug 15 en módulo Profile.
+16,2024-06-26,,Login,Medium,Blocked,Tester 3,Dev 1,Login - bug 16,Descripción breve del bug 16 en módulo Login.
+17,2025-08-02,2025-08-06,Search,Medium,Closed,Tester 1,Dev 4,Search - bug 17,Descripción breve del bug 17 en módulo Search.
+18,2025-11-29,2025-12-13,Checkout,Medium,Resolved,Tester 1,Dev 2,Checkout - bug 18,Descripción breve del bug 18 en módulo Checkout.
+19,2024-12-07,2024-12-15,Search,High,Closed,Tester 4,Dev 5,Search - bug 19,Descripción breve del bug 19 en módulo Search.
+20,2024-07-22,2024-07-27,Profile,Medium,Resolved,Tester 1,Dev 5,Profile - bug 20,Descripción breve del bug 20 en módulo Profile.
+21,2025-07-30,,Admin,Low,Open,Tester 3,Dev 6,Admin - bug 21,Descripción breve del bug 21 en módulo Admin.
+22,2024-09-25,2024-10-16,API,Medium,Closed,Tester 5,Dev 6,API - bug 22,Descripción breve del bug 22 en módulo API.
+23,2025-04-19,2025-04-28,Search,High,Closed,Tester 6,Dev 3,Search - bug 23,Descripción breve del bug 23 en módulo Search.
+24,2024-12-27,,Checkout,Medium,Open,Tester 6,Dev 1,Checkout - bug 24,Descripción breve del bug 24 en módulo Checkout.
+25,2025-06-11,,Search,Low,Open,Tester 7,Dev 6,Search - bug 25,Descripción breve del bug 25 en módulo Search.
+26,2025-09-23,,Login,Medium,Blocked,Tester 3,Dev 6,Login - bug 26,Descripción breve del bug 26 en módulo Login.
+27,2024-10-22,2024-11-15,Checkout,Low,Resolved,Tester 8,Dev 4,Checkout - bug 27,Descripción breve del bug 27 en módulo Checkout.
+28,2025-09-14,,Admin,Low,In Progress,Tester 1,Dev 1,Admin - bug 28,Descripción breve del bug 28 en módulo Admin.
+29,2025-07-24,,Admin,Low,Open,Tester 5,Dev 4,Admin - bug 29,Descripción breve del bug 29 en módulo Admin.
+30,2024-10-24,,Profile,Low,Open,Tester 7,Dev 2,Profile - bug 30,Descripción breve del bug 30 en módulo Profile.
+31,2025-05-12,,Login,Medium,In Progress,Tester 8,Dev 6,Login - bug 31,Descripción breve del bug 31 en módulo Login.
+32,2024-06-19,2024-07-13,Search,Low,Closed,Tester 5,Dev 4,Search - bug 32,Descripción breve del bug 32 en módulo Search.
+33,2025-09-20,,Admin,High,Blocked,Tester 2,Dev 1,Admin - bug 33,Descripción breve del bug 33 en módulo Admin.
+34,2025-03-28,,API,Medium,Open,Tester 7,Dev 2,API - bug 34,Descripción breve del bug 34 en módulo API.
+35,2024-12-25,,Search,Low,Open,Tester 2,Dev 2,Search - bug 35,Descripción breve del bug 35 en módulo Search.
+36,2024-07-21,,API,Medium,In Progress,Tester 3,Dev 1,API - bug 36,Descripción breve del bug 36 en módulo API.
+37,2025-09-20,,Admin,High,Open,Tester 6,Dev 6,Admin - bug 37,Descripción breve del bug 37 en módulo Admin.
+38,2025-09-24,,Checkout,Low,In Progress,Tester 3,Dev 6,Checkout - bug 38,Descripción breve del bug 38 en módulo Checkout.
+39,2025-02-27,,API,Medium,In Progress,Tester 7,Dev 2,API - bug 39,Descripción breve del bug 39 en módulo API.
+40,2025-02-19,2025-03-10,Search,Low,Closed,Tester 7,Dev 5,Search - bug 40,Descripción breve del bug 40 en módulo Search.
+41,2025-01-22,,Admin,Critical,Open,Tester 1,Dev 5,Admin - bug 41,Descripción breve del bug 41 en módulo Admin.
+42,2024-12-31,,Profile,Critical,Open,Tester 1,Dev 6,Profile - bug 42,Descripción breve del bug 42 en módulo Profile.
+43,2024-12-16,,API,Critical,In Progress,Tester 6,Dev 4,API - bug 43,Descripción breve del bug 43 en módulo API.
+44,2025-10-15,,Search,Medium,Open,Tester 2,Dev 6,Search - bug 44,Descripción breve del bug 44 en módulo Search.
+45,2024-10-29,2024-11-08,Login,High,Resolved,Tester 2,Dev 5,Login - bug 45,Descripción breve del bug 45 en módulo Login.
+46,2024-08-28,,Login,Medium,In Progress,Tester 1,Dev 6,Login - bug 46,Descripción breve del bug 46 en módulo Login.
+47,2024-10-04,,Search,Low,Blocked,Tester 6,Dev 6,Search - bug 47,Descripción breve del bug 47 en módulo Search.
+48,2024-07-28,,Search,High,In Progress,Tester 3,Dev 4,Search - bug 48,Descripción breve del bug 48 en módulo Search.
+49,2025-05-27,,Profile,High,Blocked,Tester 8,Dev 3,Profile - bug 49,Descripción breve del bug 49 en módulo Profile.
+50,2024-06-13,,Admin,Low,Open,Tester 5,Dev 2,Admin - bug 50,Descripción breve del bug 50 en módulo Admin.
+51,2025-08-06,,Profile,High,Blocked,Tester 5,Dev 3,Profile - bug 51,Descripción breve del bug 51 en módulo Profile.
+52,2025-12-11,,Login,Critical,In Progress,Tester 1,Dev 1,Login - bug 52,Descripción breve del bug 52 en módulo Login.
+53,2024-10-14,,Admin,High,In Progress,Tester 7,Dev 4,Admin - bug 53,Descripción breve del bug 53 en módulo Admin.
+54,2024-07-04,2024-07-08,Admin,Low,Closed,Tester 6,Dev 2,Admin - bug 54,Descripción breve del bug 54 en módulo Admin.
+55,2025-03-06,,Search,Low,Open,Tester 1,Dev 1,Search - bug 55,Descripción breve del bug 55 en módulo Search.
+56,2024-12-04,,Admin,Critical,Blocked,Tester 3,Dev 5,Admin - bug 56,Descripción breve del bug 56 en módulo Admin.
+57,2025-02-17,2025-02-27,Login,Low,Resolved,Tester 5,Dev 5,Login - bug 57,Descripción breve del bug 57 en módulo Login.
+58,2024-09-22,2024-10-08,Admin,Medium,Resolved,Tester 1,Dev 4,Admin - bug 58,Descripción breve del bug 58 en módulo Admin.
+59,2024-09-26,,Admin,Low,Open,Tester 8,Dev 3,Admin - bug 59,Descripción breve del bug 59 en módulo Admin.
+60,2025-09-21,2025-09-30,API,Critical,Resolved,Tester 8,Dev 3,API - bug 60,Descripción breve del bug 60 en módulo API.
+61,2024-06-09,2024-06-20,Profile,Medium,Closed,Tester 8,Dev 6,Profile - bug 61,Descripción breve del bug 61 en módulo Profile.
+62,2025-08-07,2025-08-19,Profile,High,Closed,Tester 1,Dev 1,Profile - bug 62,Descripción breve del bug 62 en módulo Profile.
+63,2025-11-28,,Admin,Medium,Blocked,Tester 4,Dev 3,Admin - bug 63,Descripción breve del bug 63 en módulo Admin.
+64,2025-03-31,2025-04-03,Checkout,Critical,Resolved,Tester 7,Dev 4,Checkout - bug 64,Descripción breve del bug 64 en módulo Checkout.
+65,2024-07-20,,Admin,Low,In Progress,Tester 2,Dev 3,Admin - bug 65,Descripción breve del bug 65 en módulo Admin.
+66,2024-08-26,,Profile,Low,In Progress,Tester 1,Dev 2,Profile - bug 66,Descripción breve del bug 66 en módulo Profile.
+67,2025-07-30,,API,Medium,Blocked,Tester 8,Dev 4,API - bug 67,Descripción breve del bug 67 en módulo API.
+68,2025-03-07,,Profile,High,Open,Tester 3,Dev 6,Profile - bug 68,Descripción breve del bug 68 en módulo Profile.
+69,2024-12-08,2024-12-29,API,Critical,Closed,Tester 4,Dev 3,API - bug 69,Descripción breve del bug 69 en módulo API.
+70,2025-01-06,,Checkout,Medium,Open,Tester 4,Dev 4,Checkout - bug 70,Descripción breve del bug 70 en módulo Checkout.
+71,2025-12-10,,Checkout,Medium,In Progress,Tester 2,Dev 4,Checkout - bug 71,Descripción breve del bug 71 en módulo Checkout.
+72,2025-10-10,,Login,Medium,In Progress,Tester 7,Dev 1,Login - bug 72,Descripción breve del bug 72 en módulo Login.
+73,2025-04-04,,Profile,Low,In Progress,Tester 8,Dev 2,Profile - bug 73,Descripción breve del bug 73 en módulo Profile.
+74,2025-06-08,,Profile,Medium,Open,Tester 6,Dev 2,Profile - bug 74,Descripción breve del bug 74 en módulo Profile.
+75,2025-04-04,,Profile,High,Open,Tester 8,Dev 1,Profile - bug 75,Descripción breve del bug 75 en módulo Profile.
+76,2025-07-20,,Admin,Low,Open,Tester 2,Dev 2,Admin - bug 76,Descripción breve del bug 76 en módulo Admin.
+77,2024-09-26,,API,Medium,Open,Tester 8,Dev 3,API - bug 77,Descripción breve del bug 77 en módulo API.
+78,2025-03-22,2025-04-01,Checkout,Low,Closed,Tester 1,Dev 3,Checkout - bug 78,Descripción breve del bug 78 en módulo Checkout.
+79,2025-07-06,,Search,High,Open,Tester 2,Dev 3,Search - bug 79,Descripción breve del bug 79 en módulo Search.
+80,2024-10-29,,Admin,High,In Progress,Tester 4,Dev 6,Admin - bug 80,Descripción breve del bug 80 en módulo Admin.
+81,2024-06-12,,Checkout,Low,In Progress,Tester 2,Dev 6,Checkout - bug 81,Descripción breve del bug 81 en módulo Checkout.
+82,2025-09-02,2025-09-09,API,Critical,Closed,Tester 4,Dev 5,API - bug 82,Descripción breve del bug 82 en módulo API.
+83,2025-12-12,2025-12-31,Search,Low,Closed,Tester 6,Dev 5,Search - bug 83,Descripción breve del bug 83 en módulo Search.
+84,2024-11-14,,Login,High,Open,Tester 7,Dev 6,Login - bug 84,Descripción breve del bug 84 en módulo Login.
+85,2025-01-20,2025-02-03,API,High,Closed,Tester 3,Dev 6,API - bug 85,Descripción breve del bug 85 en módulo API.
+86,2025-01-08,,Checkout,High,In Progress,Tester 8,Dev 6,Checkout - bug 86,Descripción breve del bug 86 en módulo Checkout.
+87,2025-02-11,,API,Low,Open,Tester 1,Dev 4,API - bug 87,Descripción breve del bug 87 en módulo API.
+88,2024-06-02,,Checkout,Low,Blocked,Tester 7,Dev 4,Checkout - bug 88,Descripción breve del bug 88 en módulo Checkout.
+89,2025-08-14,,Profile,Low,Open,Tester 5,Dev 2,Profile - bug 89,Descripción breve del bug 89 en módulo Profile.
+90,2025-05-29,,Admin,Medium,In Progress,Tester 6,Dev 6,Admin - bug 90,Descripción breve del bug 90 en módulo Admin.
+91,2025-04-04,2025-04-11,API,Low,Resolved,Tester 6,Dev 2,API - bug 91,Descripción breve del bug 91 en módulo API.
+92,2025-07-24,,Checkout,Low,Open,Tester 8,Dev 1,Checkout - bug 92,Descripción breve del bug 92 en módulo Checkout.
+93,2025-04-20,2025-04-22,Login,Low,Closed,Tester 3,Dev 2,Login - bug 93,Descripción breve del bug 93 en módulo Login.
+94,2025-03-19,2025-03-29,Search,High,Resolved,Tester 5,Dev 3,Search - bug 94,Descripción breve del bug 94 en módulo Search.
+95,2025-03-23,,API,Medium,In Progress,Tester 1,Dev 5,API - bug 95,Descripción breve del bug 95 en módulo API.
+96,2024-08-31,2024-09-08,Admin,High,Resolved,Tester 4,Dev 3,Admin - bug 96,Descripción breve del bug 96 en módulo Admin.
+97,2025-09-27,,Profile,Low,Blocked,Tester 8,Dev 3,Profile - bug 97,Descripción breve del bug 97 en módulo Profile.
+98,2024-10-21,2024-11-14,Search,Low,Closed,Tester 8,Dev 2,Search - bug 98,Descripción breve del bug 98 en módulo Search.
+99,2024-08-05,2024-08-18,Profile,Medium,Resolved,Tester 7,Dev 6,Profile - bug 99,Descripción breve del bug 99 en módulo Profile.
+100,2025-05-01,,Profile,Medium,Open,Tester 4,Dev 2,Profile - bug 100,Descripción breve del bug 100 en módulo Profile.
+101,2025-06-22,2025-07-07,Search,Medium,Resolved,Tester 6,Dev 6,Search - bug 101,Descripción breve del bug 101 en módulo Search.
+102,2025-03-22,2025-04-02,Admin,Medium,Closed,Tester 3,Dev 6,Admin - bug 102,Descripción breve del bug 102 en módulo Admin.
+103,2025-05-26,2025-06-10,Admin,Medium,Closed,Tester 2,Dev 4,Admin - bug 103,Descripción breve del bug 103 en módulo Admin.
+104,2025-11-17,2025-11-19,API,Low,Resolved,Tester 2,Dev 1,API - bug 104,Descripción breve del bug 104 en módulo API.
+105,2025-02-04,,Login,Medium,In Progress,Tester 4,Dev 1,Login - bug 105,Descripción breve del bug 105 en módulo Login.
+106,2025-01-28,,Profile,Medium,In Progress,Tester 1,Dev 4,Profile - bug 106,Descripción breve del bug 106 en módulo Profile.
+107,2024-09-09,,API,High,In Progress,Tester 8,Dev 5,API - bug 107,Descripción breve del bug 107 en módulo API.
+108,2024-09-08,,API,Medium,Open,Tester 4,Dev 1,API - bug 108,Descripción breve del bug 108 en módulo API.
+109,2025-04-24,,Profile,Critical,Open,Tester 2,Dev 3,Profile - bug 109,Descripción breve del bug 109 en módulo Profile.
+110,2025-02-21,2025-03-10,Checkout,Medium,Closed,Tester 4,Dev 5,Checkout - bug 110,Descripción breve del bug 110 en módulo Checkout.
+111,2025-12-16,2026-01-02,Profile,Medium,Resolved,Tester 8,Dev 4,Profile - bug 111,Descripción breve del bug 111 en módulo Profile.
+112,2025-11-11,,API,Low,Open,Tester 7,Dev 1,API - bug 112,Descripción breve del bug 112 en módulo API.
+113,2024-12-29,2025-01-17,API,Low,Resolved,Tester 7,Dev 3,API - bug 113,Descripción breve del bug 113 en módulo API.
+114,2025-07-06,,Admin,High,In Progress,Tester 2,Dev 3,Admin - bug 114,Descripción breve del bug 114 en módulo Admin.
+115,2025-05-24,,API,Critical,Open,Tester 2,Dev 4,API - bug 115,Descripción breve del bug 115 en módulo API.
+116,2025-10-21,,Search,Low,Open,Tester 8,Dev 2,Search - bug 116,Descripción breve del bug 116 en módulo Search.
+117,2025-08-20,2025-08-23,Profile,Low,Closed,Tester 6,Dev 5,Profile - bug 117,Descripción breve del bug 117 en módulo Profile.
+118,2025-12-09,2025-12-13,Search,High,Resolved,Tester 3,Dev 4,Search - bug 118,Descripción breve del bug 118 en módulo Search.
+119,2025-01-28,2025-02-17,API,Low,Resolved,Tester 2,Dev 3,API - bug 119,Descripción breve del bug 119 en módulo API.
+120,2024-09-03,,Checkout,Low,Open,Tester 3,Dev 5,Checkout - bug 120,Descripción breve del bug 120 en módulo Checkout.
+121,2024-12-28,,Search,Medium,Blocked,Tester 6,Dev 4,Search - bug 121,Descripción breve del bug 121 en módulo Search.
+122,2025-09-26,,API,Low,Open,Tester 7,Dev 6,API - bug 122,Descripción breve del bug 122 en módulo API.
+123,2024-10-19,,Search,Medium,Open,Tester 8,Dev 6,Search - bug 123,Descripción breve del bug 123 en módulo Search.
+124,2025-12-08,,API,Medium,Open,Tester 8,Dev 1,API - bug 124,Descripción breve del bug 124 en módulo API.
+125,2025-07-09,,Checkout,Medium,In Progress,Tester 6,Dev 4,Checkout - bug 125,Descripción breve del bug 125 en módulo Checkout.
+126,2024-10-09,2024-10-26,Checkout,Low,Closed,Tester 5,Dev 2,Checkout - bug 126,Descripción breve del bug 126 en módulo Checkout.
+127,2025-12-01,,Login,Medium,Open,Tester 5,Dev 3,Login - bug 127,Descripción breve del bug 127 en módulo Login.
+128,2025-12-24,,API,High,In Progress,Tester 1,Dev 5,API - bug 128,Descripción breve del bug 128 en módulo API.
+129,2025-02-23,,Profile,Low,In Progress,Tester 8,Dev 6,Profile - bug 129,Descripción breve del bug 129 en módulo Profile.
+130,2025-06-15,,Login,High,Blocked,Tester 2,Dev 5,Login - bug 130,Descripción breve del bug 130 en módulo Login.
+131,2024-08-27,,Admin,High,In Progress,Tester 4,Dev 6,Admin - bug 131,Descripción breve del bug 131 en módulo Admin.
+132,2024-09-12,,Admin,Medium,Open,Tester 2,Dev 5,Admin - bug 132,Descripción breve del bug 132 en módulo Admin.
+133,2025-10-29,2025-11-13,API,High,Closed,Tester 7,Dev 2,API - bug 133,Descripción breve del bug 133 en módulo API.
+134,2024-07-25,,Checkout,Medium,Open,Tester 4,Dev 5,Checkout - bug 134,Descripción breve del bug 134 en módulo Checkout.
+135,2024-10-12,,Admin,Medium,In Progress,Tester 6,Dev 2,Admin - bug 135,Descripción breve del bug 135 en módulo Admin.
+136,2025-01-31,2025-02-17,Login,Low,Closed,Tester 1,Dev 1,Login - bug 136,Descripción breve del bug 136 en módulo Login.
+137,2025-12-03,,Admin,Medium,In Progress,Tester 1,Dev 1,Admin - bug 137,Descripción breve del bug 137 en módulo Admin.
+138,2024-07-12,2024-07-19,Login,Medium,Resolved,Tester 4,Dev 1,Login - bug 138,Descripción breve del bug 138 en módulo Login.
+139,2025-06-11,2025-06-21,Login,Low,Resolved,Tester 8,Dev 4,Login - bug 139,Descripción breve del bug 139 en módulo Login.
+140,2024-08-31,,Login,High,Open,Tester 7,Dev 1,Login - bug 140,Descripción breve del bug 140 en módulo Login.
+141,2025-03-25,,Login,High,Open,Tester 6,Dev 5,Login - bug 141,Descripción breve del bug 141 en módulo Login.
+142,2025-07-24,,Login,Low,Open,Tester 6,Dev 3,Login - bug 142,Descripción breve del bug 142 en módulo Login.
+143,2025-01-28,,API,Medium,Open,Tester 2,Dev 6,API - bug 143,Descripción breve del bug 143 en módulo API.
+144,2025-08-07,,Search,Low,Open,Tester 2,Dev 1,Search - bug 144,Descripción breve del bug 144 en módulo Search.
+145,2025-09-26,,Profile,Low,Blocked,Tester 5,Dev 2,Profile - bug 145,Descripción breve del bug 145 en módulo Profile.
+146,2025-01-03,,Checkout,Low,Open,Tester 2,Dev 1,Checkout - bug 146,Descripción breve del bug 146 en módulo Checkout.
+147,2025-11-10,2025-11-11,Login,High,Resolved,Tester 7,Dev 5,Login - bug 147,Descripción breve del bug 147 en módulo Login.
+148,2025-10-23,2025-10-27,Admin,Medium,Resolved,Tester 6,Dev 6,Admin - bug 148,Descripción breve del bug 148 en módulo Admin.
+149,2024-12-25,,Admin,Medium,In Progress,Tester 8,Dev 2,Admin - bug 149,Descripción breve del bug 149 en módulo Admin.
+150,2024-10-26,2024-11-07,Search,Medium,Closed,Tester 1,Dev 2,Search - bug 150,Descripción breve del bug 150 en módulo Search.
+151,2025-05-18,,Profile,Medium,Open,Tester 8,Dev 1,Profile - bug 151,Descripción breve del bug 151 en módulo Profile.
+152,2024-12-08,2024-12-09,Search,Medium,Closed,Tester 3,Dev 5,Search - bug 152,Descripción breve del bug 152 en módulo Search.
+153,2025-05-14,2025-06-06,Login,Low,Closed,Tester 2,Dev 1,Login - bug 153,Descripción breve del bug 153 en módulo Login.
+154,2024-11-17,,API,Critical,In Progress,Tester 5,Dev 1,API - bug 154,Descripción breve del bug 154 en módulo API.
+155,2024-09-24,,Profile,Medium,In Progress,Tester 3,Dev 4,Profile - bug 155,Descripción breve del bug 155 en módulo Profile.
+156,2025-01-15,,Admin,Low,In Progress,Tester 5,Dev 4,Admin - bug 156,Descripción breve del bug 156 en módulo Admin.
+157,2025-02-17,2025-02-20,Login,High,Resolved,Tester 1,Dev 6,Login - bug 157,Descripción breve del bug 157 en módulo Login.
+158,2025-08-12,2025-08-31,Profile,Medium,Closed,Tester 4,Dev 5,Profile - bug 158,Descripción breve del bug 158 en módulo Profile.
+159,2024-07-19,,Login,High,Open,Tester 2,Dev 1,Login - bug 159,Descripción breve del bug 159 en módulo Login.
+160,2024-11-12,,Profile,Low,In Progress,Tester 3,Dev 5,Profile - bug 160,Descripción breve del bug 160 en módulo Profile.
+161,2024-12-02,2024-12-13,Profile,High,Resolved,Tester 3,Dev 3,Profile - bug 161,Descripción breve del bug 161 en módulo Profile.
+162,2025-12-24,,Checkout,Low,Open,Tester 3,Dev 5,Checkout - bug 162,Descripción breve del bug 162 en módulo Checkout.
+163,2025-08-17,,Admin,Low,In Progress,Tester 5,Dev 4,Admin - bug 163,Descripción breve del bug 163 en módulo Admin.
+164,2025-09-12,,Search,High,Open,Tester 3,Dev 2,Search - bug 164,Descripción breve del bug 164 en módulo Search.
+165,2025-07-02,,API,High,Open,Tester 6,Dev 3,API - bug 165,Descripción breve del bug 165 en módulo API.
+166,2024-10-16,,API,Low,In Progress,Tester 7,Dev 3,API - bug 166,Descripción breve del bug 166 en módulo API.
+167,2025-08-05,2025-08-11,Checkout,Medium,Resolved,Tester 4,Dev 6,Checkout - bug 167,Descripción breve del bug 167 en módulo Checkout.
+168,2025-07-19,2025-07-21,API,Low,Closed,Tester 6,Dev 5,API - bug 168,Descripción breve del bug 168 en módulo API.
+169,2025-07-25,2025-08-09,Profile,Medium,Resolved,Tester 1,Dev 2,Profile - bug 169,Descripción breve del bug 169 en módulo Profile.
+170,2025-05-18,2025-06-06,Checkout,Medium,Resolved,Tester 6,Dev 2,Checkout - bug 170,Descripción breve del bug 170 en módulo Checkout.
+171,2024-08-29,2024-09-10,Admin,Medium,Closed,Tester 6,Dev 4,Admin - bug 171,Descripción breve del bug 171 en módulo Admin.
+172,2025-04-20,2025-05-06,API,High,Resolved,Tester 7,Dev 3,API - bug 172,Descripción breve del bug 172 en módulo API.
+173,2025-03-13,2025-03-30,API,Low,Resolved,Tester 3,Dev 6,API - bug 173,Descripción breve del bug 173 en módulo API.
+174,2024-12-15,,API,Medium,Open,Tester 4,Dev 1,API - bug 174,Descripción breve del bug 174 en módulo API.
+175,2025-02-03,,Admin,Low,Open,Tester 1,Dev 3,Admin - bug 175,Descripción breve del bug 175 en módulo Admin.
+176,2024-11-15,,Profile,Medium,Open,Tester 4,Dev 4,Profile - bug 176,Descripción breve del bug 176 en módulo Profile.
+177,2025-02-05,2025-02-09,Search,Medium,Closed,Tester 7,Dev 1,Search - bug 177,Descripción breve del bug 177 en módulo Search.
+178,2025-04-03,,Login,Low,Open,Tester 5,Dev 3,Login - bug 178,Descripción breve del bug 178 en módulo Login.
+179,2025-06-24,2025-06-29,Checkout,Medium,Closed,Tester 7,Dev 5,Checkout - bug 179,Descripción breve del bug 179 en módulo Checkout.
+180,2024-07-23,2024-08-05,Profile,Medium,Resolved,Tester 8,Dev 3,Profile - bug 180,Descripción breve del bug 180 en módulo Profile.
+181,2025-12-02,2025-12-21,Profile,Medium,Resolved,Tester 4,Dev 5,Profile - bug 181,Descripción breve del bug 181 en módulo Profile.
+182,2025-01-27,,Search,Low,In Progress,Tester 7,Dev 4,Search - bug 182,Descripción breve del bug 182 en módulo Search.
+183,2025-01-11,2025-01-23,Login,Medium,Closed,Tester 4,Dev 6,Login - bug 183,Descripción breve del bug 183 en módulo Login.
+184,2025-01-05,2025-01-07,Search,Medium,Closed,Tester 8,Dev 1,Search - bug 184,Descripción breve del bug 184 en módulo Search.
+185,2024-07-06,,Login,Low,In Progress,Tester 7,Dev 5,Login - bug 185,Descripción breve del bug 185 en módulo Login.
+186,2025-07-07,,Login,High,Open,Tester 6,Dev 1,Login - bug 186,Descripción breve del bug 186 en módulo Login.
+187,2024-09-24,,Profile,Medium,In Progress,Tester 7,Dev 2,Profile - bug 187,Descripción breve del bug 187 en módulo Profile.
+188,2025-07-18,2025-07-31,Search,Critical,Closed,Tester 1,Dev 4,Search - bug 188,Descripción breve del bug 188 en módulo Search.
+189,2025-12-11,,API,Medium,Open,Tester 4,Dev 3,API - bug 189,Descripción breve del bug 189 en módulo API.
+190,2025-11-01,2025-11-23,Admin,Medium,Closed,Tester 5,Dev 3,Admin - bug 190,Descripción breve del bug 190 en módulo Admin.
+191,2024-10-21,2024-11-12,Admin,High,Closed,Tester 5,Dev 2,Admin - bug 191,Descripción breve del bug 191 en módulo Admin.
+192,2025-05-31,2025-06-05,Search,Low,Closed,Tester 5,Dev 2,Search - bug 192,Descripción breve del bug 192 en módulo Search.
+193,2025-08-22,,Search,Low,In Progress,Tester 3,Dev 1,Search - bug 193,Descripción breve del bug 193 en módulo Search.
+194,2025-03-07,2025-03-20,API,Medium,Closed,Tester 7,Dev 2,API - bug 194,Descripción breve del bug 194 en módulo API.
+195,2025-01-09,2025-01-31,Admin,Critical,Resolved,Tester 1,Dev 2,Admin - bug 195,Descripción breve del bug 195 en módulo Admin.
+196,2024-09-26,2024-09-30,Checkout,Low,Resolved,Tester 7,Dev 5,Checkout - bug 196,Descripción breve del bug 196 en módulo Checkout.
+197,2025-06-19,,Admin,Low,Open,Tester 3,Dev 5,Admin - bug 197,Descripción breve del bug 197 en módulo Admin.
+198,2025-01-19,2025-02-12,Admin,Low,Resolved,Tester 8,Dev 4,Admin - bug 198,Descripción breve del bug 198 en módulo Admin.
+199,2025-05-30,,Admin,Low,Blocked,Tester 4,Dev 6,Admin - bug 199,Descripción breve del bug 199 en módulo Admin.
+200,2025-03-04,,Login,Low,Open,Tester 1,Dev 4,Login - bug 200,Descripción breve del bug 200 en módulo Login.
+201,2025-02-25,,API,Medium,Blocked,Tester 3,Dev 4,API - bug 201,Descripción breve del bug 201 en módulo API.
+202,2024-11-05,2024-11-21,API,Low,Resolved,Tester 8,Dev 6,API - bug 202,Descripción breve del bug 202 en módulo API.
+203,2025-11-27,,API,Medium,Open,Tester 8,Dev 4,API - bug 203,Descripción breve del bug 203 en módulo API.
+204,2025-11-17,,Checkout,Low,Open,Tester 2,Dev 3,Checkout - bug 204,Descripción breve del bug 204 en módulo Checkout.
+205,2025-06-11,,Search,Low,Open,Tester 7,Dev 3,Search - bug 205,Descripción breve del bug 205 en módulo Search.
+206,2024-10-20,,Login,Critical,In Progress,Tester 4,Dev 5,Login - bug 206,Descripción breve del bug 206 en módulo Login.
+207,2025-11-30,,Checkout,Low,Open,Tester 4,Dev 2,Checkout - bug 207,Descripción breve del bug 207 en módulo Checkout.
+208,2025-05-07,2025-05-08,Profile,Medium,Closed,Tester 8,Dev 6,Profile - bug 208,Descripción breve del bug 208 en módulo Profile.
+209,2025-11-27,2025-12-07,Login,Medium,Closed,Tester 4,Dev 2,Login - bug 209,Descripción breve del bug 209 en módulo Login.
+210,2024-12-30,2025-01-13,Profile,Low,Closed,Tester 2,Dev 5,Profile - bug 210,Descripción breve del bug 210 en módulo Profile.
+211,2025-01-19,,Login,Medium,In Progress,Tester 5,Dev 4,Login - bug 211,Descripción breve del bug 211 en módulo Login.
+212,2025-06-16,,Login,Low,Open,Tester 5,Dev 6,Login - bug 212,Descripción breve del bug 212 en módulo Login.
+213,2025-12-14,,Admin,Low,In Progress,Tester 3,Dev 3,Admin - bug 213,Descripción breve del bug 213 en módulo Admin.
+214,2025-06-21,,Login,High,In Progress,Tester 7,Dev 5,Login - bug 214,Descripción breve del bug 214 en módulo Login.
+215,2025-09-29,2025-10-20,Profile,Critical,Resolved,Tester 6,Dev 1,Profile - bug 215,Descripción breve del bug 215 en módulo Profile.
+216,2024-08-29,,Search,Medium,Open,Tester 4,Dev 1,Search - bug 216,Descripción breve del bug 216 en módulo Search.
+217,2025-12-19,2025-12-20,Search,Low,Resolved,Tester 3,Dev 6,Search - bug 217,Descripción breve del bug 217 en módulo Search.
+218,2025-06-07,,Login,Low,In Progress,Tester 6,Dev 6,Login - bug 218,Descripción breve del bug 218 en módulo Login.
+219,2024-06-23,,Profile,Low,Open,Tester 1,Dev 6,Profile - bug 219,Descripción breve del bug 219 en módulo Profile.
+220,2024-10-24,2024-11-14,Checkout,Low,Closed,Tester 7,Dev 4,Checkout - bug 220,Descripción breve del bug 220 en módulo Checkout.
+221,2024-10-10,,Login,Medium,In Progress,Tester 5,Dev 5,Login - bug 221,Descripción breve del bug 221 en módulo Login.
+222,2024-07-27,2024-08-10,Search,High,Resolved,Tester 1,Dev 6,Search - bug 222,Descripción breve del bug 222 en módulo Search.
+223,2024-07-17,,Search,Critical,Open,Tester 2,Dev 3,Search - bug 223,Descripción breve del bug 223 en módulo Search.
+224,2025-08-17,,Admin,Low,In Progress,Tester 6,Dev 5,Admin - bug 224,Descripción breve del bug 224 en módulo Admin.
+225,2024-06-18,,Admin,Medium,In Progress,Tester 8,Dev 4,Admin - bug 225,Descripción breve del bug 225 en módulo Admin.
+226,2025-09-22,2025-10-14,API,Medium,Resolved,Tester 3,Dev 5,API - bug 226,Descripción breve del bug 226 en módulo API.
+227,2024-11-24,2024-12-06,Checkout,Medium,Resolved,Tester 4,Dev 4,Checkout - bug 227,Descripción breve del bug 227 en módulo Checkout.
+228,2024-08-07,2024-08-08,Login,Medium,Resolved,Tester 5,Dev 6,Login - bug 228,Descripción breve del bug 228 en módulo Login.
+229,2024-07-20,,Checkout,High,Open,Tester 6,Dev 2,Checkout - bug 229,Descripción breve del bug 229 en módulo Checkout.
+230,2025-05-08,2025-05-09,API,Medium,Closed,Tester 4,Dev 2,API - bug 230,Descripción breve del bug 230 en módulo API.
+231,2024-09-13,2024-09-27,Profile,Medium,Resolved,Tester 1,Dev 3,Profile - bug 231,Descripción breve del bug 231 en módulo Profile.
+232,2024-07-13,2024-08-03,Profile,Low,Resolved,Tester 5,Dev 4,Profile - bug 232,Descripción breve del bug 232 en módulo Profile.
+233,2024-12-03,2024-12-10,Checkout,Medium,Closed,Tester 6,Dev 2,Checkout - bug 233,Descripción breve del bug 233 en módulo Checkout.
+234,2025-02-08,,Login,Critical,Open,Tester 5,Dev 4,Login - bug 234,Descripción breve del bug 234 en módulo Login.
+235,2025-01-01,2025-01-23,Checkout,Low,Resolved,Tester 2,Dev 5,Checkout - bug 235,Descripción breve del bug 235 en módulo Checkout.
+236,2024-09-16,,Search,Low,Open,Tester 4,Dev 5,Search - bug 236,Descripción breve del bug 236 en módulo Search.
+237,2025-02-08,,Search,Low,Open,Tester 1,Dev 4,Search - bug 237,Descripción breve del bug 237 en módulo Search.
+238,2025-12-14,,Checkout,Critical,Open,Tester 6,Dev 1,Checkout - bug 238,Descripción breve del bug 238 en módulo Checkout.
+239,2025-12-30,2026-01-22,Search,Low,Resolved,Tester 5,Dev 6,Search - bug 239,Descripción breve del bug 239 en módulo Search.
+240,2025-05-15,2025-05-17,Login,High,Resolved,Tester 2,Dev 3,Login - bug 240,Descripción breve del bug 240 en módulo Login.
+241,2025-02-23,2025-03-11,Profile,Critical,Closed,Tester 6,Dev 4,Profile - bug 241,Descripción breve del bug 241 en módulo Profile.
+242,2024-08-04,2024-08-22,Search,High,Resolved,Tester 8,Dev 4,Search - bug 242,Descripción breve del bug 242 en módulo Search.
+243,2024-09-18,,Login,Medium,In Progress,Tester 6,Dev 3,Login - bug 243,Descripción breve del bug 243 en módulo Login.
+244,2025-06-05,2025-06-25,Profile,High,Resolved,Tester 1,Dev 1,Profile - bug 244,Descripción breve del bug 244 en módulo Profile.
+245,2024-08-25,2024-09-07,Admin,Medium,Resolved,Tester 6,Dev 5,Admin - bug 245,Descripción breve del bug 245 en módulo Admin.
+246,2024-11-30,,Search,High,Open,Tester 4,Dev 4,Search - bug 246,Descripción breve del bug 246 en módulo Search.
+247,2025-08-23,,Admin,Low,Open,Tester 1,Dev 5,Admin - bug 247,Descripción breve del bug 247 en módulo Admin.
+248,2024-11-05,2024-11-25,Checkout,Medium,Closed,Tester 1,Dev 1,Checkout - bug 248,Descripción breve del bug 248 en módulo Checkout.
+249,2025-11-10,,Login,Low,In Progress,Tester 2,Dev 1,Login - bug 249,Descripción breve del bug 249 en módulo Login.
+250,2025-07-17,,Checkout,Critical,In Progress,Tester 8,Dev 2,Checkout - bug 250,Descripción breve del bug 250 en módulo Checkout.
+251,2025-07-29,2025-08-21,Admin,Critical,Resolved,Tester 6,Dev 6,Admin - bug 251,Descripción breve del bug 251 en módulo Admin.
+252,2025-10-24,,Admin,High,In Progress,Tester 6,Dev 2,Admin - bug 252,Descripción breve del bug 252 en módulo Admin.
+253,2025-09-27,,Profile,Low,In Progress,Tester 3,Dev 6,Profile - bug 253,Descripción breve del bug 253 en módulo Profile.
+254,2025-12-23,,Profile,Critical,In Progress,Tester 2,Dev 2,Profile - bug 254,Descripción breve del bug 254 en módulo Profile.
+255,2024-11-30,,Checkout,Critical,In Progress,Tester 8,Dev 6,Checkout - bug 255,Descripción breve del bug 255 en módulo Checkout.
+256,2024-06-15,2024-06-29,Search,Low,Resolved,Tester 1,Dev 4,Search - bug 256,Descripción breve del bug 256 en módulo Search.
+257,2025-04-01,,API,Medium,In Progress,Tester 7,Dev 1,API - bug 257,Descripción breve del bug 257 en módulo API.
+258,2024-08-28,,API,Low,Open,Tester 4,Dev 5,API - bug 258,Descripción breve del bug 258 en módulo API.
+259,2025-09-18,2025-10-01,API,Medium,Closed,Tester 5,Dev 5,API - bug 259,Descripción breve del bug 259 en módulo API.
+260,2025-05-05,,Profile,High,Open,Tester 3,Dev 3,Profile - bug 260,Descripción breve del bug 260 en módulo Profile.
+261,2024-10-06,,Search,Critical,Open,Tester 4,Dev 1,Search - bug 261,Descripción breve del bug 261 en módulo Search.
+262,2024-06-18,,Profile,Medium,In Progress,Tester 5,Dev 4,Profile - bug 262,Descripción breve del bug 262 en módulo Profile.
+263,2025-05-11,,Profile,Medium,In Progress,Tester 7,Dev 1,Profile - bug 263,Descripción breve del bug 263 en módulo Profile.
+264,2025-04-22,2025-04-24,Admin,Medium,Resolved,Tester 5,Dev 3,Admin - bug 264,Descripción breve del bug 264 en módulo Admin.
+265,2024-09-03,,Checkout,High,In Progress,Tester 2,Dev 6,Checkout - bug 265,Descripción breve del bug 265 en módulo Checkout.
+266,2025-11-24,2025-12-10,Checkout,High,Resolved,Tester 5,Dev 2,Checkout - bug 266,Descripción breve del bug 266 en módulo Checkout.
+267,2025-01-31,2025-02-14,Search,Low,Resolved,Tester 7,Dev 5,Search - bug 267,Descripción breve del bug 267 en módulo Search.
+268,2025-03-15,,Profile,High,In Progress,Tester 4,Dev 4,Profile - bug 268,Descripción breve del bug 268 en módulo Profile.
+269,2025-02-02,,API,High,Open,Tester 3,Dev 1,API - bug 269,Descripción breve del bug 269 en módulo API.
+270,2025-08-05,,Profile,Medium,In Progress,Tester 6,Dev 4,Profile - bug 270,Descripción breve del bug 270 en módulo Profile.
+271,2025-11-05,2025-11-17,API,Medium,Resolved,Tester 2,Dev 6,API - bug 271,Descripción breve del bug 271 en módulo API.
+272,2024-10-03,,Checkout,Critical,Open,Tester 6,Dev 6,Checkout - bug 272,Descripción breve del bug 272 en módulo Checkout.
+273,2024-07-16,,Search,Medium,Blocked,Tester 2,Dev 2,Search - bug 273,Descripción breve del bug 273 en módulo Search.
+274,2025-08-03,2025-08-22,Checkout,Medium,Resolved,Tester 2,Dev 5,Checkout - bug 274,Descripción breve del bug 274 en módulo Checkout.
+275,2025-12-31,2026-01-13,Login,Low,Resolved,Tester 2,Dev 3,Login - bug 275,Descripción breve del bug 275 en módulo Login.
+276,2025-03-26,,Checkout,Critical,Blocked,Tester 3,Dev 3,Checkout - bug 276,Descripción breve del bug 276 en módulo Checkout.
+277,2025-12-13,,Checkout,Medium,Open,Tester 8,Dev 5,Checkout - bug 277,Descripción breve del bug 277 en módulo Checkout.
+278,2024-12-13,,Profile,Low,Open,Tester 5,Dev 2,Profile - bug 278,Descripción breve del bug 278 en módulo Profile.
+279,2025-02-09,,Search,Low,Open,Tester 6,Dev 1,Search - bug 279,Descripción breve del bug 279 en módulo Search.
+280,2025-03-21,2025-04-11,Checkout,Medium,Resolved,Tester 6,Dev 2,Checkout - bug 280,Descripción breve del bug 280 en módulo Checkout.
+281,2025-02-11,,Search,Medium,In Progress,Tester 8,Dev 3,Search - bug 281,Descripción breve del bug 281 en módulo Search.
+282,2025-07-07,,Checkout,Medium,In Progress,Tester 4,Dev 1,Checkout - bug 282,Descripción breve del bug 282 en módulo Checkout.
+283,2024-11-17,2024-12-11,API,Low,Closed,Tester 8,Dev 1,API - bug 283,Descripción breve del bug 283 en módulo API.
+284,2024-12-16,2024-12-23,Search,Critical,Resolved,Tester 1,Dev 3,Search - bug 284,Descripción breve del bug 284 en módulo Search.
+285,2025-11-15,,Checkout,Critical,Blocked,Tester 7,Dev 5,Checkout - bug 285,Descripción breve del bug 285 en módulo Checkout.
+286,2025-08-25,,Search,Medium,In Progress,Tester 2,Dev 2,Search - bug 286,Descripción breve del bug 286 en módulo Search.
+287,2025-12-31,,Search,Low,Open,Tester 3,Dev 3,Search - bug 287,Descripción breve del bug 287 en módulo Search.
+288,2025-01-18,,Checkout,Low,Open,Tester 8,Dev 4,Checkout - bug 288,Descripción breve del bug 288 en módulo Checkout.
+289,2025-03-25,2025-04-04,Search,Critical,Closed,Tester 4,Dev 2,Search - bug 289,Descripción breve del bug 289 en módulo Search.
+290,2025-04-11,2025-05-02,Checkout,Critical,Resolved,Tester 3,Dev 6,Checkout - bug 290,Descripción breve del bug 290 en módulo Checkout.
+291,2025-12-24,2026-01-04,Login,Low,Closed,Tester 7,Dev 4,Login - bug 291,Descripción breve del bug 291 en módulo Login.
+292,2024-09-01,,API,Medium,In Progress,Tester 2,Dev 1,API - bug 292,Descripción breve del bug 292 en módulo API.
+293,2025-06-05,,Admin,High,Open,Tester 4,Dev 3,Admin - bug 293,Descripción breve del bug 293 en módulo Admin.
+294,2025-04-18,2025-04-26,Login,Medium,Resolved,Tester 4,Dev 6,Login - bug 294,Descripción breve del bug 294 en módulo Login.
+295,2024-06-16,,Checkout,Low,Open,Tester 8,Dev 2,Checkout - bug 295,Descripción breve del bug 295 en módulo Checkout.
+296,2025-03-25,,Admin,Low,Open,Tester 1,Dev 6,Admin - bug 296,Descripción breve del bug 296 en módulo Admin.
+297,2025-07-23,2025-08-03,Search,Medium,Resolved,Tester 3,Dev 1,Search - bug 297,Descripción breve del bug 297 en módulo Search.
+298,2025-03-07,,Profile,Low,In Progress,Tester 2,Dev 1,Profile - bug 298,Descripción breve del bug 298 en módulo Profile.
+299,2025-09-07,,Admin,Medium,In Progress,Tester 8,Dev 4,Admin - bug 299,Descripción breve del bug 299 en módulo Admin.
+300,2024-06-20,2024-07-04,Checkout,High,Resolved,Tester 8,Dev 2,Checkout - bug 300,Descripción breve del bug 300 en módulo Checkout.
+301,2025-10-27,,Checkout,Medium,In Progress,Tester 5,Dev 2,Checkout - bug 301,Descripción breve del bug 301 en módulo Checkout.
+302,2025-09-03,,Profile,Low,Open,Tester 8,Dev 5,Profile - bug 302,Descripción breve del bug 302 en módulo Profile.
+303,2025-11-26,,Checkout,High,Open,Tester 5,Dev 1,Checkout - bug 303,Descripción breve del bug 303 en módulo Checkout.
+304,2025-02-14,,Checkout,Low,Open,Tester 7,Dev 1,Checkout - bug 304,Descripción breve del bug 304 en módulo Checkout.
+305,2024-07-23,,Login,Low,Open,Tester 5,Dev 6,Login - bug 305,Descripción breve del bug 305 en módulo Login.
+306,2025-08-15,2025-08-24,Login,Low,Resolved,Tester 2,Dev 3,Login - bug 306,Descripción breve del bug 306 en módulo Login.
+307,2025-10-16,2025-10-28,Checkout,Medium,Closed,Tester 7,Dev 5,Checkout - bug 307,Descripción breve del bug 307 en módulo Checkout.
+308,2024-09-28,2024-10-20,API,Critical,Resolved,Tester 4,Dev 1,API - bug 308,Descripción breve del bug 308 en módulo API.
+309,2024-08-01,,Admin,High,Open,Tester 1,Dev 1,Admin - bug 309,Descripción breve del bug 309 en módulo Admin.
+310,2024-09-25,2024-10-15,API,High,Resolved,Tester 5,Dev 5,API - bug 310,Descripción breve del bug 310 en módulo API.
+311,2025-11-06,,Profile,Medium,In Progress,Tester 2,Dev 5,Profile - bug 311,Descripción breve del bug 311 en módulo Profile.
+312,2024-08-01,,Login,Medium,In Progress,Tester 1,Dev 6,Login - bug 312,Descripción breve del bug 312 en módulo Login.
+313,2025-05-17,,Login,Medium,In Progress,Tester 5,Dev 2,Login - bug 313,Descripción breve del bug 313 en módulo Login.
+314,2024-11-28,,Checkout,High,Blocked,Tester 4,Dev 5,Checkout - bug 314,Descripción breve del bug 314 en módulo Checkout.
+315,2025-01-24,2025-01-28,Profile,Low,Resolved,Tester 8,Dev 5,Profile - bug 315,Descripción breve del bug 315 en módulo Profile.
+316,2024-07-06,2024-07-23,Checkout,High,Resolved,Tester 6,Dev 2,Checkout - bug 316,Descripción breve del bug 316 en módulo Checkout.
+317,2025-06-12,,Checkout,Critical,Open,Tester 6,Dev 2,Checkout - bug 317,Descripción breve del bug 317 en módulo Checkout.
+318,2025-09-14,2025-10-02,Checkout,Low,Closed,Tester 8,Dev 5,Checkout - bug 318,Descripción breve del bug 318 en módulo Checkout.
+319,2024-12-27,2025-01-11,Profile,Medium,Resolved,Tester 7,Dev 1,Profile - bug 319,Descripción breve del bug 319 en módulo Profile.
+320,2024-11-19,,Profile,Low,In Progress,Tester 6,Dev 4,Profile - bug 320,Descripción breve del bug 320 en módulo Profile.
+321,2025-10-27,2025-11-08,API,Medium,Resolved,Tester 5,Dev 6,API - bug 321,Descripción breve del bug 321 en módulo API.
+322,2025-04-04,,Admin,Low,Open,Tester 4,Dev 3,Admin - bug 322,Descripción breve del bug 322 en módulo Admin.
+323,2025-05-25,2025-06-18,API,Critical,Resolved,Tester 7,Dev 4,API - bug 323,Descripción breve del bug 323 en módulo API.
+324,2025-06-03,,Admin,Medium,In Progress,Tester 1,Dev 5,Admin - bug 324,Descripción breve del bug 324 en módulo Admin.
+325,2024-06-12,2024-07-03,API,Critical,Resolved,Tester 6,Dev 1,API - bug 325,Descripción breve del bug 325 en módulo API.
+326,2024-10-16,2024-11-08,Profile,Medium,Resolved,Tester 7,Dev 1,Profile - bug 326,Descripción breve del bug 326 en módulo Profile.
+327,2024-09-17,,Login,Medium,Open,Tester 6,Dev 1,Login - bug 327,Descripción breve del bug 327 en módulo Login.
+328,2025-09-26,,Admin,High,In Progress,Tester 2,Dev 3,Admin - bug 328,Descripción breve del bug 328 en módulo Admin.
+329,2025-12-09,,Login,Critical,In Progress,Tester 8,Dev 5,Login - bug 329,Descripción breve del bug 329 en módulo Login.
+330,2025-10-24,,Checkout,Low,In Progress,Tester 8,Dev 4,Checkout - bug 330,Descripción breve del bug 330 en módulo Checkout.
+331,2025-08-05,2025-08-07,Search,Medium,Closed,Tester 7,Dev 1,Search - bug 331,Descripción breve del bug 331 en módulo Search.
+332,2025-01-14,,Search,High,Open,Tester 6,Dev 1,Search - bug 332,Descripción breve del bug 332 en módulo Search.
+333,2024-09-22,,API,High,Open,Tester 3,Dev 2,API - bug 333,Descripción breve del bug 333 en módulo API.
+334,2024-10-17,,Admin,Low,Open,Tester 7,Dev 6,Admin - bug 334,Descripción breve del bug 334 en módulo Admin.
+335,2024-09-25,2024-10-10,Admin,Medium,Resolved,Tester 7,Dev 3,Admin - bug 335,Descripción breve del bug 335 en módulo Admin.
+336,2024-11-07,,Checkout,Critical,Blocked,Tester 6,Dev 3,Checkout - bug 336,Descripción breve del bug 336 en módulo Checkout.
+337,2025-01-23,,Login,Medium,In Progress,Tester 4,Dev 4,Login - bug 337,Descripción breve del bug 337 en módulo Login.
+338,2025-05-31,2025-06-13,Admin,High,Resolved,Tester 1,Dev 1,Admin - bug 338,Descripción breve del bug 338 en módulo Admin.
+339,2025-09-30,2025-10-15,Search,Medium,Closed,Tester 5,Dev 5,Search - bug 339,Descripción breve del bug 339 en módulo Search.
+340,2024-12-09,,Search,High,Open,Tester 2,Dev 2,Search - bug 340,Descripción breve del bug 340 en módulo Search.
+341,2024-10-09,,Login,Medium,Blocked,Tester 4,Dev 5,Login - bug 341,Descripción breve del bug 341 en módulo Login.
+342,2025-05-31,,Admin,Low,Blocked,Tester 3,Dev 1,Admin - bug 342,Descripción breve del bug 342 en módulo Admin.
+343,2024-12-29,,Search,Medium,Open,Tester 4,Dev 4,Search - bug 343,Descripción breve del bug 343 en módulo Search.
+344,2025-08-16,2025-09-04,API,Low,Resolved,Tester 2,Dev 4,API - bug 344,Descripción breve del bug 344 en módulo API.
+345,2025-10-31,,Checkout,Critical,Open,Tester 2,Dev 6,Checkout - bug 345,Descripción breve del bug 345 en módulo Checkout.
+346,2025-11-04,,Checkout,High,In Progress,Tester 6,Dev 1,Checkout - bug 346,Descripción breve del bug 346 en módulo Checkout.
+347,2024-09-29,,Login,Low,In Progress,Tester 1,Dev 4,Login - bug 347,Descripción breve del bug 347 en módulo Login.
+348,2024-12-02,,Search,Medium,Open,Tester 7,Dev 5,Search - bug 348,Descripción breve del bug 348 en módulo Search.
+349,2025-03-11,2025-03-26,Admin,Low,Resolved,Tester 8,Dev 2,Admin - bug 349,Descripción breve del bug 349 en módulo Admin.
+350,2025-02-13,2025-02-22,Login,High,Resolved,Tester 5,Dev 2,Login - bug 350,Descripción breve del bug 350 en módulo Login.
+351,2024-12-09,2024-12-15,Profile,Medium,Closed,Tester 2,Dev 5,Profile - bug 351,Descripción breve del bug 351 en módulo Profile.
+352,2024-08-07,2024-08-12,Profile,Medium,Resolved,Tester 6,Dev 6,Profile - bug 352,Descripción breve del bug 352 en módulo Profile.
+353,2025-12-21,,Admin,Medium,Open,Tester 6,Dev 1,Admin - bug 353,Descripción breve del bug 353 en módulo Admin.
+354,2024-09-12,,Admin,High,In Progress,Tester 3,Dev 1,Admin - bug 354,Descripción breve del bug 354 en módulo Admin.
+355,2025-04-05,2025-04-07,Checkout,Medium,Resolved,Tester 1,Dev 2,Checkout - bug 355,Descripción breve del bug 355 en módulo Checkout.
+356,2025-09-02,2025-09-06,Admin,Low,Resolved,Tester 8,Dev 2,Admin - bug 356,Descripción breve del bug 356 en módulo Admin.
+357,2025-08-18,2025-09-02,API,High,Closed,Tester 2,Dev 3,API - bug 357,Descripción breve del bug 357 en módulo API.
+358,2025-10-14,,Search,Medium,Open,Tester 8,Dev 2,Search - bug 358,Descripción breve del bug 358 en módulo Search.
+359,2025-12-02,,Admin,Low,In Progress,Tester 8,Dev 1,Admin - bug 359,Descripción breve del bug 359 en módulo Admin.
+360,2025-04-15,,Profile,Medium,Open,Tester 4,Dev 5,Profile - bug 360,Descripción breve del bug 360 en módulo Profile.
+361,2025-03-16,,Profile,High,In Progress,Tester 6,Dev 1,Profile - bug 361,Descripción breve del bug 361 en módulo Profile.
+362,2024-07-29,,Checkout,High,Open,Tester 6,Dev 5,Checkout - bug 362,Descripción breve del bug 362 en módulo Checkout.
+363,2025-09-23,,Search,High,Open,Tester 7,Dev 6,Search - bug 363,Descripción breve del bug 363 en módulo Search.
+364,2024-07-16,2024-07-27,API,Low,Resolved,Tester 2,Dev 4,API - bug 364,Descripción breve del bug 364 en módulo API.
+365,2025-12-19,2025-12-21,API,Low,Resolved,Tester 5,Dev 4,API - bug 365,Descripción breve del bug 365 en módulo API.
+366,2025-01-22,,API,Medium,In Progress,Tester 7,Dev 4,API - bug 366,Descripción breve del bug 366 en módulo API.
+367,2025-09-16,2025-10-04,Checkout,Medium,Resolved,Tester 5,Dev 6,Checkout - bug 367,Descripción breve del bug 367 en módulo Checkout.
+368,2025-06-22,,Login,Low,In Progress,Tester 6,Dev 4,Login - bug 368,Descripción breve del bug 368 en módulo Login.
+369,2024-12-12,2024-12-18,Checkout,Medium,Closed,Tester 3,Dev 1,Checkout - bug 369,Descripción breve del bug 369 en módulo Checkout.
+370,2025-03-19,2025-04-10,Checkout,Low,Resolved,Tester 2,Dev 3,Checkout - bug 370,Descripción breve del bug 370 en módulo Checkout.
+371,2025-10-02,,Checkout,Critical,Open,Tester 2,Dev 5,Checkout - bug 371,Descripción breve del bug 371 en módulo Checkout.
+372,2024-08-01,2024-08-07,Checkout,Low,Closed,Tester 7,Dev 2,Checkout - bug 372,Descripción breve del bug 372 en módulo Checkout.
+373,2025-05-05,,Search,High,In Progress,Tester 1,Dev 5,Search - bug 373,Descripción breve del bug 373 en módulo Search.
+374,2025-11-17,2025-12-06,Checkout,Medium,Closed,Tester 7,Dev 1,Checkout - bug 374,Descripción breve del bug 374 en módulo Checkout.
+375,2024-10-05,2024-10-24,Profile,Low,Closed,Tester 1,Dev 5,Profile - bug 375,Descripción breve del bug 375 en módulo Profile.
+376,2025-07-27,,API,High,Open,Tester 3,Dev 3,API - bug 376,Descripción breve del bug 376 en módulo API.
+377,2024-08-31,,Profile,Medium,In Progress,Tester 1,Dev 2,Profile - bug 377,Descripción breve del bug 377 en módulo Profile.
+378,2025-04-30,,Checkout,Low,In Progress,Tester 3,Dev 3,Checkout - bug 378,Descripción breve del bug 378 en módulo Checkout.
+379,2024-09-02,,Login,Medium,Open,Tester 4,Dev 1,Login - bug 379,Descripción breve del bug 379 en módulo Login.
+380,2025-01-08,,Search,Critical,Open,Tester 3,Dev 1,Search - bug 380,Descripción breve del bug 380 en módulo Search.
+381,2025-09-03,,Search,Low,In Progress,Tester 7,Dev 5,Search - bug 381,Descripción breve del bug 381 en módulo Search.
+382,2024-06-03,,Admin,Critical,In Progress,Tester 7,Dev 4,Admin - bug 382,Descripción breve del bug 382 en módulo Admin.
+383,2025-11-17,,Login,High,Open,Tester 5,Dev 6,Login - bug 383,Descripción breve del bug 383 en módulo Login.
+384,2025-01-25,2025-02-06,Admin,Medium,Resolved,Tester 3,Dev 3,Admin - bug 384,Descripción breve del bug 384 en módulo Admin.
+385,2025-09-20,2025-10-08,Profile,Low,Resolved,Tester 7,Dev 1,Profile - bug 385,Descripción breve del bug 385 en módulo Profile.
+386,2025-05-27,2025-06-12,Checkout,Low,Resolved,Tester 2,Dev 3,Checkout - bug 386,Descripción breve del bug 386 en módulo Checkout.
+387,2025-02-12,2025-02-20,Profile,Medium,Resolved,Tester 6,Dev 6,Profile - bug 387,Descripción breve del bug 387 en módulo Profile.
+388,2024-08-09,,Admin,Medium,In Progress,Tester 6,Dev 6,Admin - bug 388,Descripción breve del bug 388 en módulo Admin.
+389,2025-10-21,,API,Medium,Open,Tester 4,Dev 2,API - bug 389,Descripción breve del bug 389 en módulo API.
+390,2025-04-15,2025-05-04,Admin,Low,Resolved,Tester 6,Dev 6,Admin - bug 390,Descripción breve del bug 390 en módulo Admin.
+391,2025-09-14,,Login,High,In Progress,Tester 5,Dev 2,Login - bug 391,Descripción breve del bug 391 en módulo Login.
+392,2025-10-16,,Profile,Medium,In Progress,Tester 3,Dev 6,Profile - bug 392,Descripción breve del bug 392 en módulo Profile.
+393,2025-10-05,,Login,Medium,Open,Tester 6,Dev 1,Login - bug 393,Descripción breve del bug 393 en módulo Login.
+394,2025-12-09,,Search,High,Blocked,Tester 8,Dev 3,Search - bug 394,Descripción breve del bug 394 en módulo Search.
+395,2025-04-10,,Search,Low,Open,Tester 6,Dev 4,Search - bug 395,Descripción breve del bug 395 en módulo Search.
+396,2025-06-12,,Admin,High,Open,Tester 3,Dev 3,Admin - bug 396,Descripción breve del bug 396 en módulo Admin.
+397,2024-07-26,,Profile,High,Open,Tester 7,Dev 1,Profile - bug 397,Descripción breve del bug 397 en módulo Profile.
+398,2025-01-25,2025-02-04,API,Low,Closed,Tester 4,Dev 4,API - bug 398,Descripción breve del bug 398 en módulo API.
+399,2025-03-17,2025-03-27,Login,Low,Closed,Tester 2,Dev 4,Login - bug 399,Descripción breve del bug 399 en módulo Login.
+400,2025-06-30,2025-07-22,Login,Low,Resolved,Tester 3,Dev 2,Login - bug 400,Descripción breve del bug 400 en módulo Login.
+401,2025-05-15,,Checkout,High,In Progress,Tester 6,Dev 2,Checkout - bug 401,Descripción breve del bug 401 en módulo Checkout.
+402,2024-10-18,,Login,High,Open,Tester 5,Dev 4,Login - bug 402,Descripción breve del bug 402 en módulo Login.
+403,2025-09-28,,Checkout,High,Open,Tester 3,Dev 5,Checkout - bug 403,Descripción breve del bug 403 en módulo Checkout.
+404,2025-10-08,2025-10-18,Login,High,Resolved,Tester 1,Dev 5,Login - bug 404,Descripción breve del bug 404 en módulo Login.
+405,2025-07-27,2025-08-12,API,Low,Resolved,Tester 3,Dev 3,API - bug 405,Descripción breve del bug 405 en módulo API.
+406,2025-08-06,,Search,Low,Open,Tester 3,Dev 3,Search - bug 406,Descripción breve del bug 406 en módulo Search.
+407,2025-10-18,2025-10-27,Login,Medium,Resolved,Tester 8,Dev 6,Login - bug 407,Descripción breve del bug 407 en módulo Login.
+408,2024-06-15,,API,Low,Open,Tester 8,Dev 3,API - bug 408,Descripción breve del bug 408 en módulo API.
+409,2024-09-05,,API,High,Open,Tester 6,Dev 6,API - bug 409,Descripción breve del bug 409 en módulo API.
+410,2025-12-19,,Admin,High,Blocked,Tester 8,Dev 3,Admin - bug 410,Descripción breve del bug 410 en módulo Admin.
+411,2024-12-01,,Login,Medium,Open,Tester 4,Dev 4,Login - bug 411,Descripción breve del bug 411 en módulo Login.
+412,2024-08-08,2024-08-11,Profile,Medium,Resolved,Tester 4,Dev 3,Profile - bug 412,Descripción breve del bug 412 en módulo Profile.
+413,2025-02-09,,Search,Low,In Progress,Tester 1,Dev 4,Search - bug 413,Descripción breve del bug 413 en módulo Search.
+414,2024-08-22,,Profile,Medium,In Progress,Tester 8,Dev 2,Profile - bug 414,Descripción breve del bug 414 en módulo Profile.
+415,2024-08-09,2024-08-25,Admin,Low,Resolved,Tester 1,Dev 4,Admin - bug 415,Descripción breve del bug 415 en módulo Admin.
+416,2024-12-04,,Admin,Medium,In Progress,Tester 5,Dev 1,Admin - bug 416,Descripción breve del bug 416 en módulo Admin.
+417,2025-01-25,2025-01-31,API,High,Resolved,Tester 6,Dev 2,API - bug 417,Descripción breve del bug 417 en módulo API.
+418,2025-02-05,,Profile,High,Open,Tester 8,Dev 2,Profile - bug 418,Descripción breve del bug 418 en módulo Profile.
+419,2025-12-07,,Login,Low,Open,Tester 3,Dev 3,Login - bug 419,Descripción breve del bug 419 en módulo Login.
+420,2025-02-17,2025-02-22,Profile,Medium,Resolved,Tester 4,Dev 4,Profile - bug 420,Descripción breve del bug 420 en módulo Profile.
+421,2025-08-26,,Checkout,Medium,Blocked,Tester 4,Dev 6,Checkout - bug 421,Descripción breve del bug 421 en módulo Checkout.
+422,2025-01-28,,Login,High,In Progress,Tester 2,Dev 5,Login - bug 422,Descripción breve del bug 422 en módulo Login.
+423,2024-09-05,,Checkout,Medium,In Progress,Tester 1,Dev 5,Checkout - bug 423,Descripción breve del bug 423 en módulo Checkout.
+424,2024-12-23,,Login,Low,Blocked,Tester 4,Dev 4,Login - bug 424,Descripción breve del bug 424 en módulo Login.
+425,2024-11-07,2024-11-13,Login,Low,Resolved,Tester 5,Dev 3,Login - bug 425,Descripción breve del bug 425 en módulo Login.
+426,2024-09-05,2024-09-23,API,Low,Resolved,Tester 8,Dev 2,API - bug 426,Descripción breve del bug 426 en módulo API.
+427,2024-08-15,,Admin,Medium,In Progress,Tester 8,Dev 6,Admin - bug 427,Descripción breve del bug 427 en módulo Admin.
+428,2025-07-15,,Login,High,Open,Tester 7,Dev 4,Login - bug 428,Descripción breve del bug 428 en módulo Login.
+429,2025-08-11,2025-08-28,API,High,Closed,Tester 2,Dev 5,API - bug 429,Descripción breve del bug 429 en módulo API.
+430,2025-02-19,,Login,Medium,Blocked,Tester 3,Dev 5,Login - bug 430,Descripción breve del bug 430 en módulo Login.
+431,2025-03-05,2025-03-07,API,Low,Closed,Tester 6,Dev 3,API - bug 431,Descripción breve del bug 431 en módulo API.
+432,2024-09-28,2024-10-01,Profile,High,Closed,Tester 3,Dev 2,Profile - bug 432,Descripción breve del bug 432 en módulo Profile.
+433,2025-06-01,2025-06-03,Checkout,Low,Closed,Tester 8,Dev 2,Checkout - bug 433,Descripción breve del bug 433 en módulo Checkout.
+434,2025-12-20,,Checkout,Low,In Progress,Tester 7,Dev 1,Checkout - bug 434,Descripción breve del bug 434 en módulo Checkout.
+435,2025-06-02,,Admin,Medium,Blocked,Tester 7,Dev 5,Admin - bug 435,Descripción breve del bug 435 en módulo Admin.
+436,2025-01-26,2025-01-30,Admin,Low,Resolved,Tester 3,Dev 4,Admin - bug 436,Descripción breve del bug 436 en módulo Admin.
+437,2024-10-05,2024-10-08,Search,Low,Resolved,Tester 2,Dev 4,Search - bug 437,Descripción breve del bug 437 en módulo Search.
+438,2025-05-03,2025-05-06,Search,Critical,Resolved,Tester 4,Dev 5,Search - bug 438,Descripción breve del bug 438 en módulo Search.
+439,2024-11-04,,API,High,In Progress,Tester 8,Dev 1,API - bug 439,Descripción breve del bug 439 en módulo API.
+440,2025-04-27,2025-04-28,Checkout,Medium,Closed,Tester 8,Dev 3,Checkout - bug 440,Descripción breve del bug 440 en módulo Checkout.
+441,2024-12-26,,Checkout,Medium,Open,Tester 3,Dev 2,Checkout - bug 441,Descripción breve del bug 441 en módulo Checkout.
+442,2025-02-16,2025-02-20,Checkout,Medium,Resolved,Tester 6,Dev 2,Checkout - bug 442,Descripción breve del bug 442 en módulo Checkout.
+443,2025-04-08,2025-04-29,Login,Medium,Closed,Tester 1,Dev 4,Login - bug 443,Descripción breve del bug 443 en módulo Login.
+444,2025-06-24,2025-07-18,API,Medium,Resolved,Tester 1,Dev 1,API - bug 444,Descripción breve del bug 444 en módulo API.
+445,2024-12-21,2024-12-22,Profile,Low,Resolved,Tester 8,Dev 3,Profile - bug 445,Descripción breve del bug 445 en módulo Profile.
+446,2025-04-04,,Search,High,In Progress,Tester 6,Dev 4,Search - bug 446,Descripción breve del bug 446 en módulo Search.
+447,2025-07-27,,Search,Medium,Open,Tester 6,Dev 4,Search - bug 447,Descripción breve del bug 447 en módulo Search.
+448,2025-05-20,,Profile,Low,Blocked,Tester 7,Dev 3,Profile - bug 448,Descripción breve del bug 448 en módulo Profile.
+449,2025-01-30,,Profile,Medium,In Progress,Tester 4,Dev 5,Profile - bug 449,Descripción breve del bug 449 en módulo Profile.
+450,2025-06-26,,Search,Medium,In Progress,Tester 1,Dev 3,Search - bug 450,Descripción breve del bug 450 en módulo Search.
+451,2024-11-30,,Admin,High,Open,Tester 4,Dev 3,Admin - bug 451,Descripción breve del bug 451 en módulo Admin.
+452,2025-02-06,2025-02-21,Login,High,Closed,Tester 5,Dev 4,Login - bug 452,Descripción breve del bug 452 en módulo Login.
+453,2025-01-07,,Search,Low,In Progress,Tester 5,Dev 6,Search - bug 453,Descripción breve del bug 453 en módulo Search.
+454,2025-10-24,2025-10-25,Search,Medium,Closed,Tester 3,Dev 5,Search - bug 454,Descripción breve del bug 454 en módulo Search.
+455,2024-07-26,,Profile,Low,Open,Tester 1,Dev 1,Profile - bug 455,Descripción breve del bug 455 en módulo Profile.
+456,2025-11-09,2025-11-20,Profile,Low,Closed,Tester 5,Dev 6,Profile - bug 456,Descripción breve del bug 456 en módulo Profile.
+457,2025-07-24,,Checkout,Medium,Open,Tester 6,Dev 5,Checkout - bug 457,Descripción breve del bug 457 en módulo Checkout.
+458,2024-06-13,,Login,Medium,Open,Tester 5,Dev 3,Login - bug 458,Descripción breve del bug 458 en módulo Login.
+459,2025-04-21,2025-04-27,Checkout,Medium,Resolved,Tester 2,Dev 5,Checkout - bug 459,Descripción breve del bug 459 en módulo Checkout.
+460,2025-10-20,,Search,High,Open,Tester 2,Dev 6,Search - bug 460,Descripción breve del bug 460 en módulo Search.
+461,2025-02-22,2025-03-14,Checkout,Low,Resolved,Tester 8,Dev 2,Checkout - bug 461,Descripción breve del bug 461 en módulo Checkout.
+462,2025-01-24,,Admin,Low,In Progress,Tester 3,Dev 1,Admin - bug 462,Descripción breve del bug 462 en módulo Admin.
+463,2024-09-07,2024-09-16,Login,Medium,Resolved,Tester 7,Dev 6,Login - bug 463,Descripción breve del bug 463 en módulo Login.
+464,2024-09-28,2024-10-03,API,Low,Closed,Tester 3,Dev 6,API - bug 464,Descripción breve del bug 464 en módulo API.
+465,2025-04-29,2025-05-04,Search,Low,Closed,Tester 4,Dev 3,Search - bug 465,Descripción breve del bug 465 en módulo Search.
+466,2025-10-26,,API,Medium,In Progress,Tester 7,Dev 4,API - bug 466,Descripción breve del bug 466 en módulo API.
+467,2024-09-10,2024-09-13,API,Medium,Closed,Tester 4,Dev 2,API - bug 467,Descripción breve del bug 467 en módulo API.
+468,2025-05-24,,Profile,Medium,In Progress,Tester 2,Dev 5,Profile - bug 468,Descripción breve del bug 468 en módulo Profile.
+469,2024-07-11,2024-07-29,Search,Low,Resolved,Tester 3,Dev 2,Search - bug 469,Descripción breve del bug 469 en módulo Search.
+470,2025-04-14,2025-05-05,API,High,Resolved,Tester 7,Dev 4,API - bug 470,Descripción breve del bug 470 en módulo API.
+471,2025-12-02,,Admin,High,In Progress,Tester 6,Dev 4,Admin - bug 471,Descripción breve del bug 471 en módulo Admin.
+472,2025-06-25,,Login,High,In Progress,Tester 5,Dev 6,Login - bug 472,Descripción breve del bug 472 en módulo Login.
+473,2025-10-24,,Checkout,Critical,In Progress,Tester 4,Dev 1,Checkout - bug 473,Descripción breve del bug 473 en módulo Checkout.
+474,2024-12-09,,Search,High,Open,Tester 8,Dev 6,Search - bug 474,Descripción breve del bug 474 en módulo Search.
+475,2025-04-15,,Profile,Low,Open,Tester 5,Dev 2,Profile - bug 475,Descripción breve del bug 475 en módulo Profile.
+476,2025-05-06,,Admin,High,Blocked,Tester 5,Dev 1,Admin - bug 476,Descripción breve del bug 476 en módulo Admin.
+477,2024-11-24,,Login,Low,Open,Tester 3,Dev 1,Login - bug 477,Descripción breve del bug 477 en módulo Login.
+478,2025-08-23,2025-08-25,Search,Low,Resolved,Tester 1,Dev 3,Search - bug 478,Descripción breve del bug 478 en módulo Search.
+479,2025-02-03,,Checkout,Medium,Open,Tester 4,Dev 6,Checkout - bug 479,Descripción breve del bug 479 en módulo Checkout.
+480,2024-06-15,2024-06-27,Checkout,Medium,Closed,Tester 2,Dev 2,Checkout - bug 480,Descripción breve del bug 480 en módulo Checkout.
+481,2025-05-25,,Search,High,Open,Tester 1,Dev 4,Search - bug 481,Descripción breve del bug 481 en módulo Search.
+482,2025-09-02,,Login,Low,In Progress,Tester 4,Dev 1,Login - bug 482,Descripción breve del bug 482 en módulo Login.
+483,2024-06-23,2024-06-28,API,High,Closed,Tester 7,Dev 4,API - bug 483,Descripción breve del bug 483 en módulo API.
+484,2025-09-14,2025-09-27,API,Medium,Resolved,Tester 1,Dev 5,API - bug 484,Descripción breve del bug 484 en módulo API.
+485,2025-08-13,2025-08-14,API,Medium,Resolved,Tester 5,Dev 6,API - bug 485,Descripción breve del bug 485 en módulo API.
+486,2025-08-02,,Login,Medium,Blocked,Tester 7,Dev 5,Login - bug 486,Descripción breve del bug 486 en módulo Login.
+487,2024-07-01,,Admin,Medium,In Progress,Tester 5,Dev 4,Admin - bug 487,Descripción breve del bug 487 en módulo Admin.
+488,2025-03-19,,Checkout,High,In Progress,Tester 2,Dev 6,Checkout - bug 488,Descripción breve del bug 488 en módulo Checkout.
+489,2025-05-20,,Login,High,In Progress,Tester 4,Dev 1,Login - bug 489,Descripción breve del bug 489 en módulo Login.
+490,2025-02-05,,Profile,Low,In Progress,Tester 2,Dev 3,Profile - bug 490,Descripción breve del bug 490 en módulo Profile.
+491,2025-07-15,,Search,Medium,In Progress,Tester 6,Dev 1,Search - bug 491,Descripción breve del bug 491 en módulo Search.
+492,2024-08-04,2024-08-07,Search,Medium,Resolved,Tester 3,Dev 3,Search - bug 492,Descripción breve del bug 492 en módulo Search.
+493,2024-09-09,,Admin,Medium,Open,Tester 3,Dev 3,Admin - bug 493,Descripción breve del bug 493 en módulo Admin.
+494,2025-05-26,,API,Medium,Open,Tester 3,Dev 1,API - bug 494,Descripción breve del bug 494 en módulo API.
+495,2025-02-21,2025-02-22,Search,Medium,Resolved,Tester 6,Dev 2,Search - bug 495,Descripción breve del bug 495 en módulo Search.
+496,2024-12-06,2024-12-12,Admin,High,Closed,Tester 4,Dev 1,Admin - bug 496,Descripción breve del bug 496 en módulo Admin.
+497,2025-10-26,,Login,Low,In Progress,Tester 4,Dev 5,Login - bug 497,Descripción breve del bug 497 en módulo Login.
+498,2024-11-21,,Search,Low,Open,Tester 6,Dev 1,Search - bug 498,Descripción breve del bug 498 en módulo Search.
+499,2025-05-03,,API,Medium,Blocked,Tester 2,Dev 1,API - bug 499,Descripción breve del bug 499 en módulo API.
+500,2025-05-07,,Admin,Medium,Open,Tester 8,Dev 1,Admin - bug 500,Descripción breve del bug 500 en módulo Admin.
+501,2025-05-03,,Login,Medium,Blocked,Tester 6,Dev 5,Login - bug 501,Descripción breve del bug 501 en módulo Login.
+502,2025-06-16,,Checkout,High,Open,Tester 2,Dev 3,Checkout - bug 502,Descripción breve del bug 502 en módulo Checkout.
+503,2024-10-06,,Search,Critical,In Progress,Tester 3,Dev 5,Search - bug 503,Descripción breve del bug 503 en módulo Search.
+504,2024-10-11,2024-10-16,Search,Medium,Closed,Tester 6,Dev 3,Search - bug 504,Descripción breve del bug 504 en módulo Search.
+505,2024-12-02,2024-12-04,API,Critical,Resolved,Tester 6,Dev 4,API - bug 505,Descripción breve del bug 505 en módulo API.
+506,2025-06-25,2025-07-08,Search,High,Closed,Tester 6,Dev 2,Search - bug 506,Descripción breve del bug 506 en módulo Search.
+507,2025-07-23,,Checkout,Medium,Open,Tester 2,Dev 5,Checkout - bug 507,Descripción breve del bug 507 en módulo Checkout.
+508,2024-09-22,,API,Low,In Progress,Tester 7,Dev 5,API - bug 508,Descripción breve del bug 508 en módulo API.
+509,2024-11-29,2024-12-04,Login,Medium,Resolved,Tester 7,Dev 2,Login - bug 509,Descripción breve del bug 509 en módulo Login.
+510,2025-06-18,2025-06-23,Search,Medium,Resolved,Tester 2,Dev 5,Search - bug 510,Descripción breve del bug 510 en módulo Search.
+511,2024-07-04,,Login,Medium,Open,Tester 4,Dev 4,Login - bug 511,Descripción breve del bug 511 en módulo Login.
+512,2024-11-16,2024-12-05,Profile,High,Resolved,Tester 3,Dev 3,Profile - bug 512,Descripción breve del bug 512 en módulo Profile.
+513,2024-11-19,2024-11-28,Profile,Low,Resolved,Tester 4,Dev 3,Profile - bug 513,Descripción breve del bug 513 en módulo Profile.
+514,2024-11-28,,Admin,Low,In Progress,Tester 3,Dev 3,Admin - bug 514,Descripción breve del bug 514 en módulo Admin.
+515,2025-09-11,2025-09-25,Checkout,High,Resolved,Tester 8,Dev 4,Checkout - bug 515,Descripción breve del bug 515 en módulo Checkout.
+516,2025-07-06,,API,Low,In Progress,Tester 5,Dev 6,API - bug 516,Descripción breve del bug 516 en módulo API.
+517,2025-01-15,,Profile,High,Blocked,Tester 4,Dev 5,Profile - bug 517,Descripción breve del bug 517 en módulo Profile.
+518,2025-01-27,,API,High,Open,Tester 7,Dev 6,API - bug 518,Descripción breve del bug 518 en módulo API.
+519,2024-07-04,2024-07-16,Checkout,Low,Resolved,Tester 3,Dev 3,Checkout - bug 519,Descripción breve del bug 519 en módulo Checkout.
+520,2024-06-12,2024-06-19,Search,Low,Resolved,Tester 4,Dev 5,Search - bug 520,Descripción breve del bug 520 en módulo Search.
+521,2024-09-19,,Search,High,Open,Tester 7,Dev 4,Search - bug 521,Descripción breve del bug 521 en módulo Search.
+522,2025-07-12,2025-08-04,API,Critical,Resolved,Tester 7,Dev 2,API - bug 522,Descripción breve del bug 522 en módulo API.
+523,2025-12-12,,API,High,Open,Tester 3,Dev 5,API - bug 523,Descripción breve del bug 523 en módulo API.
+524,2025-09-13,2025-09-15,Profile,Critical,Resolved,Tester 8,Dev 2,Profile - bug 524,Descripción breve del bug 524 en módulo Profile.
+525,2024-09-04,,API,Low,In Progress,Tester 6,Dev 4,API - bug 525,Descripción breve del bug 525 en módulo API.
+526,2024-10-03,,API,Low,In Progress,Tester 7,Dev 2,API - bug 526,Descripción breve del bug 526 en módulo API.
+527,2024-12-29,,Admin,Low,Blocked,Tester 1,Dev 6,Admin - bug 527,Descripción breve del bug 527 en módulo Admin.
+528,2025-06-26,,Admin,High,Open,Tester 7,Dev 1,Admin - bug 528,Descripción breve del bug 528 en módulo Admin.
+529,2025-06-29,,Checkout,Low,Open,Tester 2,Dev 5,Checkout - bug 529,Descripción breve del bug 529 en módulo Checkout.
+530,2024-09-28,2024-10-21,Checkout,Low,Closed,Tester 2,Dev 2,Checkout - bug 530,Descripción breve del bug 530 en módulo Checkout.
+531,2025-09-28,2025-10-17,Profile,Medium,Resolved,Tester 1,Dev 5,Profile - bug 531,Descripción breve del bug 531 en módulo Profile.
+532,2025-12-08,,Profile,Low,In Progress,Tester 2,Dev 1,Profile - bug 532,Descripción breve del bug 532 en módulo Profile.
+533,2024-08-28,2024-09-18,Profile,Low,Resolved,Tester 1,Dev 1,Profile - bug 533,Descripción breve del bug 533 en módulo Profile.
+534,2025-05-27,,Admin,Medium,In Progress,Tester 8,Dev 5,Admin - bug 534,Descripción breve del bug 534 en módulo Admin.
+535,2024-10-08,,Login,Medium,Open,Tester 4,Dev 2,Login - bug 535,Descripción breve del bug 535 en módulo Login.
+536,2024-08-09,,Profile,Low,In Progress,Tester 2,Dev 5,Profile - bug 536,Descripción breve del bug 536 en módulo Profile.
+537,2024-11-19,,Profile,Low,Open,Tester 5,Dev 1,Profile - bug 537,Descripción breve del bug 537 en módulo Profile.
+538,2024-08-11,2024-08-16,Search,Medium,Resolved,Tester 4,Dev 1,Search - bug 538,Descripción breve del bug 538 en módulo Search.
+539,2025-10-06,,Login,Low,In Progress,Tester 7,Dev 5,Login - bug 539,Descripción breve del bug 539 en módulo Login.
+540,2025-09-29,,Login,Medium,Open,Tester 5,Dev 3,Login - bug 540,Descripción breve del bug 540 en módulo Login.
+541,2025-08-16,,Admin,Low,Open,Tester 4,Dev 3,Admin - bug 541,Descripción breve del bug 541 en módulo Admin.
+542,2025-08-09,,Profile,Medium,Open,Tester 7,Dev 6,Profile - bug 542,Descripción breve del bug 542 en módulo Profile.
+543,2025-10-19,,Profile,Medium,Open,Tester 2,Dev 4,Profile - bug 543,Descripción breve del bug 543 en módulo Profile.
+544,2025-05-25,,API,High,In Progress,Tester 3,Dev 2,API - bug 544,Descripción breve del bug 544 en módulo API.
+545,2025-10-27,2025-11-11,API,Medium,Closed,Tester 5,Dev 5,API - bug 545,Descripción breve del bug 545 en módulo API.
+546,2024-06-21,2024-07-10,Login,Low,Closed,Tester 3,Dev 5,Login - bug 546,Descripción breve del bug 546 en módulo Login.
+547,2025-03-04,,Login,Medium,Open,Tester 7,Dev 6,Login - bug 547,Descripción breve del bug 547 en módulo Login.
+548,2024-07-12,,API,Medium,In Progress,Tester 5,Dev 6,API - bug 548,Descripción breve del bug 548 en módulo API.
+549,2025-01-28,2025-02-10,Checkout,Critical,Resolved,Tester 8,Dev 6,Checkout - bug 549,Descripción breve del bug 549 en módulo Checkout.
+550,2024-07-29,,Checkout,Critical,Open,Tester 7,Dev 6,Checkout - bug 550,Descripción breve del bug 550 en módulo Checkout.
+551,2024-10-28,2024-10-31,Login,High,Resolved,Tester 8,Dev 4,Login - bug 551,Descripción breve del bug 551 en módulo Login.
+552,2025-08-28,,Profile,Low,In Progress,Tester 3,Dev 6,Profile - bug 552,Descripción breve del bug 552 en módulo Profile.
+553,2025-12-22,,API,Medium,Open,Tester 3,Dev 2,API - bug 553,Descripción breve del bug 553 en módulo API.
+554,2025-10-03,2025-10-20,Search,High,Closed,Tester 2,Dev 1,Search - bug 554,Descripción breve del bug 554 en módulo Search.
+555,2025-09-12,2025-09-24,Search,High,Resolved,Tester 3,Dev 2,Search - bug 555,Descripción breve del bug 555 en módulo Search.
+556,2025-03-18,,Admin,Low,In Progress,Tester 3,Dev 5,Admin - bug 556,Descripción breve del bug 556 en módulo Admin.
+557,2024-12-14,,Profile,Low,In Progress,Tester 5,Dev 5,Profile - bug 557,Descripción breve del bug 557 en módulo Profile.
+558,2025-05-15,,Search,Critical,In Progress,Tester 6,Dev 3,Search - bug 558,Descripción breve del bug 558 en módulo Search.
+559,2025-12-12,2025-12-31,Admin,Medium,Resolved,Tester 8,Dev 4,Admin - bug 559,Descripción breve del bug 559 en módulo Admin.
+560,2025-10-25,,Login,Low,In Progress,Tester 1,Dev 5,Login - bug 560,Descripción breve del bug 560 en módulo Login.
+561,2025-05-19,,Admin,Low,In Progress,Tester 3,Dev 3,Admin - bug 561,Descripción breve del bug 561 en módulo Admin.
+562,2025-02-25,,Admin,Low,Open,Tester 7,Dev 4,Admin - bug 562,Descripción breve del bug 562 en módulo Admin.
+563,2025-09-10,,Login,Medium,In Progress,Tester 6,Dev 4,Login - bug 563,Descripción breve del bug 563 en módulo Login.
+564,2025-09-12,,Admin,Low,Open,Tester 4,Dev 6,Admin - bug 564,Descripción breve del bug 564 en módulo Admin.
+565,2024-08-13,2024-08-18,Admin,Low,Resolved,Tester 7,Dev 3,Admin - bug 565,Descripción breve del bug 565 en módulo Admin.
+566,2025-05-25,,API,High,Open,Tester 5,Dev 4,API - bug 566,Descripción breve del bug 566 en módulo API.
+567,2024-12-14,,Checkout,Medium,In Progress,Tester 8,Dev 5,Checkout - bug 567,Descripción breve del bug 567 en módulo Checkout.
+568,2025-05-13,,API,High,Open,Tester 3,Dev 1,API - bug 568,Descripción breve del bug 568 en módulo API.
+569,2025-08-31,2025-09-22,Login,Low,Closed,Tester 6,Dev 2,Login - bug 569,Descripción breve del bug 569 en módulo Login.
+570,2025-11-04,,Login,Medium,In Progress,Tester 2,Dev 6,Login - bug 570,Descripción breve del bug 570 en módulo Login.
+571,2025-07-17,2025-07-24,Login,High,Resolved,Tester 5,Dev 6,Login - bug 571,Descripción breve del bug 571 en módulo Login.
+572,2025-12-19,,Profile,High,Open,Tester 7,Dev 2,Profile - bug 572,Descripción breve del bug 572 en módulo Profile.
+573,2025-04-02,,Profile,Medium,In Progress,Tester 7,Dev 2,Profile - bug 573,Descripción breve del bug 573 en módulo Profile.
+574,2025-02-13,,API,High,In Progress,Tester 5,Dev 4,API - bug 574,Descripción breve del bug 574 en módulo API.
+575,2024-07-30,2024-08-04,Checkout,Low,Closed,Tester 6,Dev 4,Checkout - bug 575,Descripción breve del bug 575 en módulo Checkout.
+576,2025-09-15,2025-10-03,Profile,High,Resolved,Tester 2,Dev 3,Profile - bug 576,Descripción breve del bug 576 en módulo Profile.
+577,2025-09-28,2025-10-14,Profile,Low,Resolved,Tester 4,Dev 3,Profile - bug 577,Descripción breve del bug 577 en módulo Profile.
+578,2025-05-29,2025-06-09,Checkout,Low,Closed,Tester 3,Dev 6,Checkout - bug 578,Descripción breve del bug 578 en módulo Checkout.
+579,2025-11-10,,Search,High,Open,Tester 6,Dev 2,Search - bug 579,Descripción breve del bug 579 en módulo Search.
+580,2025-01-08,,Search,Low,Open,Tester 2,Dev 1,Search - bug 580,Descripción breve del bug 580 en módulo Search.
+581,2024-08-20,2024-08-30,Search,Low,Resolved,Tester 8,Dev 3,Search - bug 581,Descripción breve del bug 581 en módulo Search.
+582,2024-06-29,2024-07-09,Login,Low,Resolved,Tester 8,Dev 3,Login - bug 582,Descripción breve del bug 582 en módulo Login.
+583,2025-06-20,2025-06-26,Login,Low,Resolved,Tester 6,Dev 6,Login - bug 583,Descripción breve del bug 583 en módulo Login.
+584,2024-10-04,,API,Medium,Open,Tester 1,Dev 4,API - bug 584,Descripción breve del bug 584 en módulo API.
+585,2024-08-27,,Search,Critical,In Progress,Tester 8,Dev 6,Search - bug 585,Descripción breve del bug 585 en módulo Search.
+586,2025-05-17,,Admin,Medium,Open,Tester 1,Dev 1,Admin - bug 586,Descripción breve del bug 586 en módulo Admin.
+587,2025-09-07,2025-09-18,API,Medium,Closed,Tester 6,Dev 4,API - bug 587,Descripción breve del bug 587 en módulo API.
+588,2025-05-10,2025-05-30,Login,Critical,Resolved,Tester 3,Dev 2,Login - bug 588,Descripción breve del bug 588 en módulo Login.
+589,2024-10-27,,Checkout,Medium,Open,Tester 8,Dev 6,Checkout - bug 589,Descripción breve del bug 589 en módulo Checkout.
+590,2024-07-08,,API,High,In Progress,Tester 5,Dev 5,API - bug 590,Descripción breve del bug 590 en módulo API.
+591,2025-11-24,2025-12-16,Checkout,Medium,Resolved,Tester 6,Dev 1,Checkout - bug 591,Descripción breve del bug 591 en módulo Checkout.
+592,2024-06-29,2024-07-16,Profile,Medium,Resolved,Tester 4,Dev 1,Profile - bug 592,Descripción breve del bug 592 en módulo Profile.
+593,2024-07-29,2024-08-18,API,Low,Closed,Tester 7,Dev 4,API - bug 593,Descripción breve del bug 593 en módulo API.
+594,2025-01-31,,Search,Low,In Progress,Tester 7,Dev 5,Search - bug 594,Descripción breve del bug 594 en módulo Search.
+595,2025-04-11,,Login,Low,Open,Tester 7,Dev 4,Login - bug 595,Descripción breve del bug 595 en módulo Login.
+596,2025-02-07,2025-02-27,Login,Low,Closed,Tester 3,Dev 5,Login - bug 596,Descripción breve del bug 596 en módulo Login.
+597,2024-11-11,,Login,Low,In Progress,Tester 8,Dev 6,Login - bug 597,Descripción breve del bug 597 en módulo Login.
+598,2024-07-10,2024-07-28,Admin,Low,Resolved,Tester 3,Dev 5,Admin - bug 598,Descripción breve del bug 598 en módulo Admin.
+599,2025-03-24,,Search,Medium,Blocked,Tester 2,Dev 4,Search - bug 599,Descripción breve del bug 599 en módulo Search.
+600,2025-09-15,2025-10-04,API,High,Closed,Tester 7,Dev 5,API - bug 600,Descripción breve del bug 600 en módulo API.
+601,2025-03-11,2025-03-25,Admin,Critical,Resolved,Tester 6,Dev 5,Admin - bug 601,Descripción breve del bug 601 en módulo Admin.
+602,2025-09-08,,Login,Low,Blocked,Tester 6,Dev 5,Login - bug 602,Descripción breve del bug 602 en módulo Login.
+603,2024-07-31,,Profile,Medium,Open,Tester 2,Dev 3,Profile - bug 603,Descripción breve del bug 603 en módulo Profile.
+604,2025-03-10,2025-03-17,Checkout,Low,Resolved,Tester 6,Dev 3,Checkout - bug 604,Descripción breve del bug 604 en módulo Checkout.
+605,2024-08-04,,Login,Low,Blocked,Tester 1,Dev 5,Login - bug 605,Descripción breve del bug 605 en módulo Login.
+606,2025-01-17,,Profile,Low,In Progress,Tester 8,Dev 6,Profile - bug 606,Descripción breve del bug 606 en módulo Profile.
+607,2025-09-09,,API,High,In Progress,Tester 6,Dev 1,API - bug 607,Descripción breve del bug 607 en módulo API.
+608,2024-09-13,2024-09-20,Search,Medium,Resolved,Tester 3,Dev 1,Search - bug 608,Descripción breve del bug 608 en módulo Search.
+609,2025-11-18,2025-11-29,API,High,Closed,Tester 7,Dev 2,API - bug 609,Descripción breve del bug 609 en módulo API.
+610,2025-03-11,,Profile,High,Open,Tester 1,Dev 1,Profile - bug 610,Descripción breve del bug 610 en módulo Profile.
+611,2024-12-27,2025-01-07,Checkout,Medium,Resolved,Tester 4,Dev 2,Checkout - bug 611,Descripción breve del bug 611 en módulo Checkout.
+612,2025-02-12,2025-03-04,Checkout,Medium,Resolved,Tester 2,Dev 5,Checkout - bug 612,Descripción breve del bug 612 en módulo Checkout.
+613,2024-06-04,,API,Medium,Blocked,Tester 8,Dev 1,API - bug 613,Descripción breve del bug 613 en módulo API.
+614,2025-04-07,,Admin,High,Open,Tester 4,Dev 6,Admin - bug 614,Descripción breve del bug 614 en módulo Admin.
+615,2025-12-09,,Login,High,Blocked,Tester 5,Dev 3,Login - bug 615,Descripción breve del bug 615 en módulo Login.
+616,2024-12-03,,API,Medium,Open,Tester 7,Dev 5,API - bug 616,Descripción breve del bug 616 en módulo API.
+617,2024-09-21,,Checkout,Critical,Open,Tester 5,Dev 3,Checkout - bug 617,Descripción breve del bug 617 en módulo Checkout.
+618,2025-07-06,,Profile,Medium,Blocked,Tester 2,Dev 3,Profile - bug 618,Descripción breve del bug 618 en módulo Profile.
+619,2025-04-11,2025-05-04,Admin,Low,Resolved,Tester 3,Dev 1,Admin - bug 619,Descripción breve del bug 619 en módulo Admin.
+620,2025-10-02,2025-10-23,API,High,Resolved,Tester 3,Dev 3,API - bug 620,Descripción breve del bug 620 en módulo API.
+621,2024-10-07,,Admin,Critical,Open,Tester 4,Dev 5,Admin - bug 621,Descripción breve del bug 621 en módulo Admin.
+622,2024-09-29,,Profile,Critical,In Progress,Tester 1,Dev 2,Profile - bug 622,Descripción breve del bug 622 en módulo Profile.
+623,2024-06-11,2024-06-18,API,Low,Resolved,Tester 6,Dev 2,API - bug 623,Descripción breve del bug 623 en módulo API.
+624,2025-12-01,,Login,Medium,In Progress,Tester 7,Dev 6,Login - bug 624,Descripción breve del bug 624 en módulo Login.
+625,2024-07-07,2024-07-12,Admin,Low,Closed,Tester 3,Dev 5,Admin - bug 625,Descripción breve del bug 625 en módulo Admin.
+626,2024-08-25,2024-09-11,Profile,Low,Closed,Tester 4,Dev 5,Profile - bug 626,Descripción breve del bug 626 en módulo Profile.
+627,2025-10-29,2025-11-15,API,High,Closed,Tester 3,Dev 5,API - bug 627,Descripción breve del bug 627 en módulo API.
+628,2024-07-23,2024-08-01,API,High,Closed,Tester 8,Dev 6,API - bug 628,Descripción breve del bug 628 en módulo API.
+629,2024-07-12,,Admin,Medium,Open,Tester 8,Dev 4,Admin - bug 629,Descripción breve del bug 629 en módulo Admin.
+630,2025-11-26,,Checkout,Medium,Open,Tester 3,Dev 4,Checkout - bug 630,Descripción breve del bug 630 en módulo Checkout.
+631,2024-09-18,2024-10-06,Checkout,Medium,Closed,Tester 3,Dev 3,Checkout - bug 631,Descripción breve del bug 631 en módulo Checkout.
+632,2025-06-19,,Admin,High,Open,Tester 5,Dev 2,Admin - bug 632,Descripción breve del bug 632 en módulo Admin.
+633,2024-11-18,,Checkout,Low,Open,Tester 8,Dev 4,Checkout - bug 633,Descripción breve del bug 633 en módulo Checkout.
+634,2025-08-21,2025-09-01,Admin,Low,Resolved,Tester 3,Dev 4,Admin - bug 634,Descripción breve del bug 634 en módulo Admin.
+635,2024-07-28,,Profile,Low,Open,Tester 4,Dev 6,Profile - bug 635,Descripción breve del bug 635 en módulo Profile.
+636,2025-05-31,,Profile,Low,Open,Tester 3,Dev 3,Profile - bug 636,Descripción breve del bug 636 en módulo Profile.
+637,2024-06-24,2024-07-09,Login,High,Resolved,Tester 6,Dev 2,Login - bug 637,Descripción breve del bug 637 en módulo Login.
+638,2025-06-09,2025-06-15,Checkout,Low,Resolved,Tester 1,Dev 5,Checkout - bug 638,Descripción breve del bug 638 en módulo Checkout.
+639,2025-09-14,2025-10-03,Admin,High,Resolved,Tester 7,Dev 4,Admin - bug 639,Descripción breve del bug 639 en módulo Admin.
+640,2025-02-24,,API,Low,Open,Tester 1,Dev 4,API - bug 640,Descripción breve del bug 640 en módulo API.
+641,2025-03-14,2025-04-01,Search,Low,Resolved,Tester 7,Dev 4,Search - bug 641,Descripción breve del bug 641 en módulo Search.
+642,2025-04-02,,Checkout,Low,In Progress,Tester 5,Dev 6,Checkout - bug 642,Descripción breve del bug 642 en módulo Checkout.
+643,2024-11-10,,Checkout,Low,Blocked,Tester 8,Dev 2,Checkout - bug 643,Descripción breve del bug 643 en módulo Checkout.
+644,2024-08-07,,API,Low,Open,Tester 3,Dev 6,API - bug 644,Descripción breve del bug 644 en módulo API.
+645,2025-07-09,,Search,Low,In Progress,Tester 8,Dev 6,Search - bug 645,Descripción breve del bug 645 en módulo Search.
+646,2024-12-19,2024-12-24,Search,Medium,Closed,Tester 5,Dev 6,Search - bug 646,Descripción breve del bug 646 en módulo Search.
+647,2024-11-07,2024-12-01,Login,High,Closed,Tester 5,Dev 2,Login - bug 647,Descripción breve del bug 647 en módulo Login.
+648,2025-05-28,,Search,Low,Open,Tester 8,Dev 6,Search - bug 648,Descripción breve del bug 648 en módulo Search.
+649,2025-01-20,,API,Low,Blocked,Tester 7,Dev 2,API - bug 649,Descripción breve del bug 649 en módulo API.
+650,2025-09-27,2025-10-21,Search,Medium,Resolved,Tester 7,Dev 2,Search - bug 650,Descripción breve del bug 650 en módulo Search.
+651,2025-01-31,2025-02-11,Profile,Medium,Closed,Tester 2,Dev 3,Profile - bug 651,Descripción breve del bug 651 en módulo Profile.
+652,2025-03-13,2025-03-28,Search,High,Closed,Tester 4,Dev 4,Search - bug 652,Descripción breve del bug 652 en módulo Search.
+653,2024-09-09,,API,Medium,In Progress,Tester 1,Dev 1,API - bug 653,Descripción breve del bug 653 en módulo API.
+654,2025-01-04,,Checkout,Low,In Progress,Tester 1,Dev 5,Checkout - bug 654,Descripción breve del bug 654 en módulo Checkout.
+655,2025-07-08,2025-07-22,Checkout,Low,Resolved,Tester 1,Dev 1,Checkout - bug 655,Descripción breve del bug 655 en módulo Checkout.
+656,2025-11-22,2025-12-16,API,Low,Closed,Tester 4,Dev 1,API - bug 656,Descripción breve del bug 656 en módulo API.
+657,2025-11-02,,Profile,Critical,In Progress,Tester 7,Dev 5,Profile - bug 657,Descripción breve del bug 657 en módulo Profile.
+658,2024-08-03,,Login,Medium,Open,Tester 5,Dev 5,Login - bug 658,Descripción breve del bug 658 en módulo Login.
+659,2025-04-25,,Profile,Medium,Open,Tester 1,Dev 1,Profile - bug 659,Descripción breve del bug 659 en módulo Profile.
+660,2025-09-25,,Admin,Medium,In Progress,Tester 2,Dev 6,Admin - bug 660,Descripción breve del bug 660 en módulo Admin.
+661,2025-01-20,,Login,Medium,Open,Tester 3,Dev 5,Login - bug 661,Descripción breve del bug 661 en módulo Login.
+662,2025-04-05,2025-04-23,Profile,High,Resolved,Tester 8,Dev 1,Profile - bug 662,Descripción breve del bug 662 en módulo Profile.
+663,2024-11-07,2024-11-20,Search,Low,Resolved,Tester 3,Dev 4,Search - bug 663,Descripción breve del bug 663 en módulo Search.
+664,2025-01-23,,Search,Medium,In Progress,Tester 1,Dev 6,Search - bug 664,Descripción breve del bug 664 en módulo Search.
+665,2024-12-04,2024-12-20,API,Medium,Closed,Tester 1,Dev 5,API - bug 665,Descripción breve del bug 665 en módulo API.
+666,2024-10-10,,Search,Medium,In Progress,Tester 7,Dev 6,Search - bug 666,Descripción breve del bug 666 en módulo Search.
+667,2025-11-01,2025-11-13,Login,Medium,Resolved,Tester 6,Dev 4,Login - bug 667,Descripción breve del bug 667 en módulo Login.
+668,2024-06-22,2024-06-23,Search,Medium,Resolved,Tester 4,Dev 4,Search - bug 668,Descripción breve del bug 668 en módulo Search.
+669,2024-08-23,,Login,Low,In Progress,Tester 6,Dev 3,Login - bug 669,Descripción breve del bug 669 en módulo Login.
+670,2025-01-13,2025-01-25,Profile,Medium,Closed,Tester 7,Dev 6,Profile - bug 670,Descripción breve del bug 670 en módulo Profile.
+671,2025-01-17,2025-02-03,Admin,Medium,Resolved,Tester 1,Dev 2,Admin - bug 671,Descripción breve del bug 671 en módulo Admin.
+672,2025-03-16,,Login,Medium,In Progress,Tester 7,Dev 3,Login - bug 672,Descripción breve del bug 672 en módulo Login.
+673,2024-11-03,2024-11-10,Search,Low,Closed,Tester 3,Dev 3,Search - bug 673,Descripción breve del bug 673 en módulo Search.
+674,2024-10-06,2024-10-27,Search,Low,Resolved,Tester 5,Dev 2,Search - bug 674,Descripción breve del bug 674 en módulo Search.
+675,2025-12-28,,Login,Low,In Progress,Tester 5,Dev 6,Login - bug 675,Descripción breve del bug 675 en módulo Login.
+676,2024-06-02,,Search,Low,Open,Tester 1,Dev 6,Search - bug 676,Descripción breve del bug 676 en módulo Search.
+677,2025-08-15,,API,High,In Progress,Tester 5,Dev 2,API - bug 677,Descripción breve del bug 677 en módulo API.
+678,2025-05-22,,Login,Low,In Progress,Tester 8,Dev 4,Login - bug 678,Descripción breve del bug 678 en módulo Login.
+679,2024-09-29,,Checkout,Low,In Progress,Tester 5,Dev 6,Checkout - bug 679,Descripción breve del bug 679 en módulo Checkout.
+680,2025-10-17,,API,Medium,In Progress,Tester 3,Dev 4,API - bug 680,Descripción breve del bug 680 en módulo API.
+681,2025-10-01,,Admin,Medium,In Progress,Tester 2,Dev 6,Admin - bug 681,Descripción breve del bug 681 en módulo Admin.
+682,2024-08-12,,API,Critical,In Progress,Tester 1,Dev 2,API - bug 682,Descripción breve del bug 682 en módulo API.
+683,2025-11-08,,Checkout,Critical,Open,Tester 3,Dev 4,Checkout - bug 683,Descripción breve del bug 683 en módulo Checkout.
+684,2025-12-10,,Profile,Low,In Progress,Tester 4,Dev 4,Profile - bug 684,Descripción breve del bug 684 en módulo Profile.
+685,2025-08-21,,API,Medium,In Progress,Tester 6,Dev 5,API - bug 685,Descripción breve del bug 685 en módulo API.
+686,2025-10-06,,Checkout,Low,Open,Tester 6,Dev 6,Checkout - bug 686,Descripción breve del bug 686 en módulo Checkout.
+687,2024-11-30,,Checkout,Medium,Open,Tester 7,Dev 4,Checkout - bug 687,Descripción breve del bug 687 en módulo Checkout.
+688,2024-12-04,,API,Low,Open,Tester 2,Dev 3,API - bug 688,Descripción breve del bug 688 en módulo API.
+689,2025-05-14,2025-05-25,Search,Medium,Resolved,Tester 6,Dev 4,Search - bug 689,Descripción breve del bug 689 en módulo Search.
+690,2025-03-21,2025-04-11,Admin,Low,Resolved,Tester 5,Dev 4,Admin - bug 690,Descripción breve del bug 690 en módulo Admin.
+691,2024-10-07,2024-10-23,API,Medium,Closed,Tester 3,Dev 2,API - bug 691,Descripción breve del bug 691 en módulo API.
+692,2024-09-17,,Search,Medium,In Progress,Tester 7,Dev 2,Search - bug 692,Descripción breve del bug 692 en módulo Search.
+693,2024-11-21,,Checkout,High,In Progress,Tester 8,Dev 4,Checkout - bug 693,Descripción breve del bug 693 en módulo Checkout.
+694,2024-09-12,2024-09-14,Checkout,Low,Resolved,Tester 4,Dev 4,Checkout - bug 694,Descripción breve del bug 694 en módulo Checkout.
+695,2025-03-21,2025-03-23,Search,High,Resolved,Tester 2,Dev 5,Search - bug 695,Descripción breve del bug 695 en módulo Search.
+696,2025-03-08,,Checkout,Medium,Open,Tester 2,Dev 3,Checkout - bug 696,Descripción breve del bug 696 en módulo Checkout.
+697,2024-11-12,,Login,Medium,In Progress,Tester 1,Dev 6,Login - bug 697,Descripción breve del bug 697 en módulo Login.
+698,2025-03-08,2025-03-22,API,Critical,Resolved,Tester 4,Dev 6,API - bug 698,Descripción breve del bug 698 en módulo API.
+699,2024-09-18,2024-09-24,Profile,Medium,Resolved,Tester 4,Dev 2,Profile - bug 699,Descripción breve del bug 699 en módulo Profile.
+700,2024-09-25,,Profile,Critical,Blocked,Tester 6,Dev 2,Profile - bug 700,Descripción breve del bug 700 en módulo Profile.
+701,2025-10-22,2025-10-30,Login,Low,Resolved,Tester 4,Dev 3,Login - bug 701,Descripción breve del bug 701 en módulo Login.
+702,2024-09-30,,Admin,High,In Progress,Tester 7,Dev 2,Admin - bug 702,Descripción breve del bug 702 en módulo Admin.
+703,2025-09-14,2025-09-18,Login,High,Closed,Tester 8,Dev 5,Login - bug 703,Descripción breve del bug 703 en módulo Login.
+704,2025-08-24,2025-08-26,Search,Critical,Resolved,Tester 8,Dev 3,Search - bug 704,Descripción breve del bug 704 en módulo Search.
+705,2025-10-14,,Admin,Medium,In Progress,Tester 3,Dev 6,Admin - bug 705,Descripción breve del bug 705 en módulo Admin.
+706,2025-10-07,2025-10-12,API,High,Closed,Tester 7,Dev 5,API - bug 706,Descripción breve del bug 706 en módulo API.
+707,2024-09-10,,Search,Low,Open,Tester 5,Dev 5,Search - bug 707,Descripción breve del bug 707 en módulo Search.
+708,2025-09-14,2025-09-29,Login,Medium,Closed,Tester 3,Dev 5,Login - bug 708,Descripción breve del bug 708 en módulo Login.
+709,2024-11-03,,API,Low,In Progress,Tester 5,Dev 5,API - bug 709,Descripción breve del bug 709 en módulo API.
+710,2025-10-09,,API,Medium,Open,Tester 6,Dev 1,API - bug 710,Descripción breve del bug 710 en módulo API.
+711,2025-01-19,,Search,High,Open,Tester 4,Dev 2,Search - bug 711,Descripción breve del bug 711 en módulo Search.
+712,2025-01-31,,API,Medium,In Progress,Tester 4,Dev 2,API - bug 712,Descripción breve del bug 712 en módulo API.
+713,2025-08-01,,Login,Low,Open,Tester 1,Dev 5,Login - bug 713,Descripción breve del bug 713 en módulo Login.
+714,2024-10-28,,Login,Medium,Open,Tester 1,Dev 6,Login - bug 714,Descripción breve del bug 714 en módulo Login.
+715,2025-12-30,2026-01-03,Search,Medium,Closed,Tester 6,Dev 1,Search - bug 715,Descripción breve del bug 715 en módulo Search.
+716,2025-10-04,,Profile,Medium,Open,Tester 5,Dev 1,Profile - bug 716,Descripción breve del bug 716 en módulo Profile.
+717,2025-10-04,,Checkout,Low,Open,Tester 5,Dev 2,Checkout - bug 717,Descripción breve del bug 717 en módulo Checkout.
+718,2025-10-21,2025-11-06,Profile,Low,Resolved,Tester 1,Dev 1,Profile - bug 718,Descripción breve del bug 718 en módulo Profile.
+719,2025-05-27,,API,High,In Progress,Tester 3,Dev 5,API - bug 719,Descripción breve del bug 719 en módulo API.
+720,2024-11-23,,API,Low,Open,Tester 5,Dev 6,API - bug 720,Descripción breve del bug 720 en módulo API.
+721,2025-05-28,2025-06-05,Admin,Medium,Closed,Tester 8,Dev 6,Admin - bug 721,Descripción breve del bug 721 en módulo Admin.
+722,2025-04-13,2025-04-20,Admin,Low,Resolved,Tester 4,Dev 5,Admin - bug 722,Descripción breve del bug 722 en módulo Admin.
+723,2024-12-24,2025-01-07,Search,Medium,Resolved,Tester 3,Dev 3,Search - bug 723,Descripción breve del bug 723 en módulo Search.
+724,2025-09-03,,API,Medium,Open,Tester 6,Dev 4,API - bug 724,Descripción breve del bug 724 en módulo API.
+725,2024-08-19,,Profile,Medium,Open,Tester 6,Dev 5,Profile - bug 725,Descripción breve del bug 725 en módulo Profile.
+726,2024-11-06,,Login,Medium,In Progress,Tester 6,Dev 6,Login - bug 726,Descripción breve del bug 726 en módulo Login.
+727,2025-07-02,2025-07-17,API,High,Resolved,Tester 6,Dev 2,API - bug 727,Descripción breve del bug 727 en módulo API.
+728,2025-07-21,2025-07-25,Login,High,Resolved,Tester 7,Dev 5,Login - bug 728,Descripción breve del bug 728 en módulo Login.
+729,2024-09-17,,Checkout,High,Open,Tester 8,Dev 1,Checkout - bug 729,Descripción breve del bug 729 en módulo Checkout.
+730,2025-05-07,,API,Critical,In Progress,Tester 8,Dev 1,API - bug 730,Descripción breve del bug 730 en módulo API.
+731,2025-08-18,,Search,Low,Open,Tester 5,Dev 2,Search - bug 731,Descripción breve del bug 731 en módulo Search.
+732,2025-11-18,,API,Medium,Open,Tester 2,Dev 4,API - bug 732,Descripción breve del bug 732 en módulo API.
+733,2024-12-15,,Login,High,Open,Tester 4,Dev 2,Login - bug 733,Descripción breve del bug 733 en módulo Login.
+734,2024-07-13,,Search,Low,Open,Tester 7,Dev 6,Search - bug 734,Descripción breve del bug 734 en módulo Search.
+735,2025-02-06,2025-02-13,API,Critical,Resolved,Tester 5,Dev 1,API - bug 735,Descripción breve del bug 735 en módulo API.
+736,2025-12-17,,Search,High,In Progress,Tester 6,Dev 2,Search - bug 736,Descripción breve del bug 736 en módulo Search.
+737,2025-04-25,2025-05-15,Search,Medium,Resolved,Tester 8,Dev 3,Search - bug 737,Descripción breve del bug 737 en módulo Search.
+738,2024-08-04,,API,Medium,In Progress,Tester 8,Dev 5,API - bug 738,Descripción breve del bug 738 en módulo API.
+739,2025-11-06,,Profile,Low,Blocked,Tester 3,Dev 3,Profile - bug 739,Descripción breve del bug 739 en módulo Profile.
+740,2025-05-23,2025-06-12,Search,High,Closed,Tester 1,Dev 2,Search - bug 740,Descripción breve del bug 740 en módulo Search.
+741,2025-09-05,,Login,Low,Blocked,Tester 7,Dev 2,Login - bug 741,Descripción breve del bug 741 en módulo Login.
+742,2025-11-08,2025-11-13,Profile,Low,Resolved,Tester 8,Dev 2,Profile - bug 742,Descripción breve del bug 742 en módulo Profile.
+743,2024-10-15,,Search,High,Open,Tester 5,Dev 4,Search - bug 743,Descripción breve del bug 743 en módulo Search.
+744,2024-10-17,,Search,Medium,In Progress,Tester 3,Dev 2,Search - bug 744,Descripción breve del bug 744 en módulo Search.
+745,2024-07-31,2024-08-01,Search,High,Resolved,Tester 6,Dev 3,Search - bug 745,Descripción breve del bug 745 en módulo Search.
+746,2025-07-15,,API,Low,Open,Tester 5,Dev 5,API - bug 746,Descripción breve del bug 746 en módulo API.
+747,2024-06-07,2024-06-14,Login,Low,Resolved,Tester 8,Dev 5,Login - bug 747,Descripción breve del bug 747 en módulo Login.
+748,2024-11-04,2024-11-14,Search,High,Resolved,Tester 7,Dev 2,Search - bug 748,Descripción breve del bug 748 en módulo Search.
+749,2025-09-23,,Profile,Critical,Open,Tester 2,Dev 5,Profile - bug 749,Descripción breve del bug 749 en módulo Profile.
+750,2025-07-27,,Search,Low,In Progress,Tester 7,Dev 5,Search - bug 750,Descripción breve del bug 750 en módulo Search.
+751,2025-07-01,2025-07-20,Search,Medium,Resolved,Tester 5,Dev 3,Search - bug 751,Descripción breve del bug 751 en módulo Search.
+752,2025-01-19,,API,High,In Progress,Tester 5,Dev 5,API - bug 752,Descripción breve del bug 752 en módulo API.
+753,2025-10-13,,Admin,Medium,In Progress,Tester 8,Dev 3,Admin - bug 753,Descripción breve del bug 753 en módulo Admin.
+754,2025-03-07,,Search,Low,Open,Tester 2,Dev 1,Search - bug 754,Descripción breve del bug 754 en módulo Search.
+755,2025-11-24,2025-12-09,Login,Medium,Resolved,Tester 2,Dev 4,Login - bug 755,Descripción breve del bug 755 en módulo Login.
+756,2025-07-27,2025-08-14,Checkout,Medium,Resolved,Tester 6,Dev 6,Checkout - bug 756,Descripción breve del bug 756 en módulo Checkout.
+757,2025-05-30,,Admin,Low,Blocked,Tester 7,Dev 5,Admin - bug 757,Descripción breve del bug 757 en módulo Admin.
+758,2024-08-16,,Login,Low,In Progress,Tester 6,Dev 3,Login - bug 758,Descripción breve del bug 758 en módulo Login.
+759,2025-02-17,,API,High,Open,Tester 6,Dev 3,API - bug 759,Descripción breve del bug 759 en módulo API.
+760,2025-06-01,,Admin,Medium,Blocked,Tester 6,Dev 1,Admin - bug 760,Descripción breve del bug 760 en módulo Admin.
+761,2025-08-12,,API,Medium,Open,Tester 1,Dev 1,API - bug 761,Descripción breve del bug 761 en módulo API.
+762,2024-09-01,,Admin,Medium,Open,Tester 8,Dev 4,Admin - bug 762,Descripción breve del bug 762 en módulo Admin.
+763,2024-07-17,,API,Medium,In Progress,Tester 6,Dev 2,API - bug 763,Descripción breve del bug 763 en módulo API.
+764,2024-12-23,,Checkout,Critical,Open,Tester 4,Dev 1,Checkout - bug 764,Descripción breve del bug 764 en módulo Checkout.
+765,2025-01-24,,Login,Low,In Progress,Tester 1,Dev 6,Login - bug 765,Descripción breve del bug 765 en módulo Login.
+766,2025-12-31,,Login,Low,In Progress,Tester 7,Dev 6,Login - bug 766,Descripción breve del bug 766 en módulo Login.
+767,2025-10-11,,API,Critical,Open,Tester 8,Dev 5,API - bug 767,Descripción breve del bug 767 en módulo API.
+768,2025-08-11,2025-08-17,Profile,Low,Resolved,Tester 7,Dev 5,Profile - bug 768,Descripción breve del bug 768 en módulo Profile.
+769,2025-06-16,,Checkout,Low,In Progress,Tester 5,Dev 2,Checkout - bug 769,Descripción breve del bug 769 en módulo Checkout.
+770,2024-08-20,2024-08-21,API,Low,Resolved,Tester 2,Dev 5,API - bug 770,Descripción breve del bug 770 en módulo API.
+771,2025-05-25,,Checkout,Low,In Progress,Tester 3,Dev 5,Checkout - bug 771,Descripción breve del bug 771 en módulo Checkout.
+772,2024-09-20,,Admin,Low,Blocked,Tester 7,Dev 1,Admin - bug 772,Descripción breve del bug 772 en módulo Admin.
+773,2025-02-17,2025-03-08,Checkout,High,Closed,Tester 3,Dev 2,Checkout - bug 773,Descripción breve del bug 773 en módulo Checkout.
+774,2025-08-25,2025-09-08,Login,Low,Resolved,Tester 5,Dev 3,Login - bug 774,Descripción breve del bug 774 en módulo Login.
+775,2025-11-18,2025-12-09,Admin,High,Closed,Tester 5,Dev 3,Admin - bug 775,Descripción breve del bug 775 en módulo Admin.
+776,2025-12-06,,Profile,High,In Progress,Tester 5,Dev 6,Profile - bug 776,Descripción breve del bug 776 en módulo Profile.
+777,2025-11-06,,Login,Medium,In Progress,Tester 1,Dev 4,Login - bug 777,Descripción breve del bug 777 en módulo Login.
+778,2024-11-21,,Search,Low,Open,Tester 6,Dev 5,Search - bug 778,Descripción breve del bug 778 en módulo Search.
+779,2025-01-16,,Profile,Low,In Progress,Tester 2,Dev 1,Profile - bug 779,Descripción breve del bug 779 en módulo Profile.
+780,2025-05-14,2025-06-02,Login,Medium,Closed,Tester 5,Dev 5,Login - bug 780,Descripción breve del bug 780 en módulo Login.
+781,2024-07-20,2024-08-10,Search,High,Resolved,Tester 1,Dev 6,Search - bug 781,Descripción breve del bug 781 en módulo Search.
+782,2025-06-19,2025-07-03,Checkout,Critical,Closed,Tester 8,Dev 1,Checkout - bug 782,Descripción breve del bug 782 en módulo Checkout.
+783,2025-08-20,2025-09-13,Checkout,Medium,Closed,Tester 2,Dev 6,Checkout - bug 783,Descripción breve del bug 783 en módulo Checkout.
+784,2025-12-01,2025-12-18,Checkout,Medium,Resolved,Tester 4,Dev 3,Checkout - bug 784,Descripción breve del bug 784 en módulo Checkout.
+785,2025-08-23,,Search,Low,In Progress,Tester 1,Dev 2,Search - bug 785,Descripción breve del bug 785 en módulo Search.
+786,2025-09-30,,Search,Medium,Open,Tester 6,Dev 5,Search - bug 786,Descripción breve del bug 786 en módulo Search.
+787,2024-11-29,,Login,Low,Open,Tester 4,Dev 2,Login - bug 787,Descripción breve del bug 787 en módulo Login.
+788,2025-11-13,2025-11-30,Admin,High,Resolved,Tester 4,Dev 5,Admin - bug 788,Descripción breve del bug 788 en módulo Admin.
+789,2025-06-20,,Login,High,Blocked,Tester 1,Dev 1,Login - bug 789,Descripción breve del bug 789 en módulo Login.
+790,2025-10-14,2025-10-24,Checkout,Medium,Closed,Tester 8,Dev 5,Checkout - bug 790,Descripción breve del bug 790 en módulo Checkout.
+791,2025-06-19,2025-06-29,API,Low,Resolved,Tester 5,Dev 5,API - bug 791,Descripción breve del bug 791 en módulo API.
+792,2025-10-01,,API,Medium,Open,Tester 1,Dev 1,API - bug 792,Descripción breve del bug 792 en módulo API.
+793,2025-02-27,,Checkout,Medium,In Progress,Tester 6,Dev 2,Checkout - bug 793,Descripción breve del bug 793 en módulo Checkout.
+794,2025-04-05,,Checkout,Low,Open,Tester 8,Dev 1,Checkout - bug 794,Descripción breve del bug 794 en módulo Checkout.
+795,2025-08-05,,API,Medium,In Progress,Tester 1,Dev 2,API - bug 795,Descripción breve del bug 795 en módulo API.
+796,2024-10-31,,API,High,Open,Tester 1,Dev 6,API - bug 796,Descripción breve del bug 796 en módulo API.
+797,2025-04-20,,Checkout,High,In Progress,Tester 6,Dev 4,Checkout - bug 797,Descripción breve del bug 797 en módulo Checkout.
+798,2025-11-06,,API,High,In Progress,Tester 3,Dev 5,API - bug 798,Descripción breve del bug 798 en módulo API.
+799,2025-04-29,2025-05-13,Search,Critical,Resolved,Tester 8,Dev 4,Search - bug 799,Descripción breve del bug 799 en módulo Search.
+800,2024-12-01,2024-12-20,Login,Medium,Closed,Tester 3,Dev 1,Login - bug 800,Descripción breve del bug 800 en módulo Login.
